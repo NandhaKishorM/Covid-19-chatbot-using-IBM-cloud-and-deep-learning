@@ -117,7 +117,7 @@ Author : https://github.com/habom2310/Heart-rate-measurement-using-camera
 
 ### Install TensorFlow: https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html
 
-* To work with Jetson nano add below script in detail_main.py, this will ensure the script run on CPU. 
+* To work with Jetson nano add below script in detail_main.py, this will ensure the script run on CPU. (NB: Running on GPU will throw CUDA error)
 
 ```
 os.environ('CUDA_VISIBLE_DEVICES') = '-1' 
