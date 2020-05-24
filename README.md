@@ -96,7 +96,7 @@ Author : https://github.com/habom2310/Heart-rate-measurement-using-camera
 
 4. Apply Fast Fourier Transform to the data buffer. Highest peak is the heart-rate
 
-## Reference
+# Reference
 1. https://github.com/habom2310/Heart-rate-measurement-using-camera
 2. Real Time Heart Rate Monitoring From Facial RGB Color Video Using Webcam by H. Rahman, M.U. Ahmed, S. Begum, P. Funk
 3. Remote Monitoring of Heart Rate using Multispectral Imaging in Group 2, 18-551, Spring 2015 by Michael Kellman Carnegie (Mellon University), Sophia Zikanova (Carnegie Mellon University) and Bryan Phipps (Carnegie Mellon University)
