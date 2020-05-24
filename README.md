@@ -50,6 +50,7 @@ pip install -r requirements.txt
 python detail_live.py
 ```
 # CHATBOT - Flask
+![alt text](https://github.com/kishorkuttan/Covid-19-chatbot-using-IBM-cloud-and-deep-learning/blob/master/flask_chatbot.png?raw=true)
 
 ```
 python app.py
