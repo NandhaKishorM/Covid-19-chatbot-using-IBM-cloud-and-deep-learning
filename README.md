@@ -1,4 +1,4 @@
-[<img src="https://img.youtube.com/vi/cTnMJP2GgdY/maxresdefault.jpg" width="50%">](https://youtu.be/cTnMJP2GgdY)
+![Alt text](https://img.youtube.com/vi/cTnMJP2GgdY/0.jpg)](https://www.youtube.com/watch?v=cTnMJP2GgdY)
 
 # CHATBOT-Cough detection and automated response
 
