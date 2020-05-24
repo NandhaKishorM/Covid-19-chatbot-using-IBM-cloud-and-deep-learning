@@ -64,6 +64,7 @@ follow this tutorial https://developer.ibm.com/tutorials/create-a-voice-enabled-
 and import flows.json from folder "node-red app"
 
 # CHATBOT-Android application
+![alt text](https://github.com/kishorkuttan/Covid-19-chatbot-using-IBM-cloud-and-deep-learning/blob/master/Android_demo_app.jpg?raw=true)
 
 Install app-debug.apk
 
