@@ -114,7 +114,7 @@ Author : https://github.com/habom2310/Heart-rate-measurement-using-camera
 ## OS Support: Linux for Tegra®
 ## Module Size: 70mm x 45mm
 ## Developer Kit Size: 100mm x 80mm
-* Install dependencies and connect usb microphone or USB blueotooth dongle
+
 ### Install TensorFlow: https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html
 
 * To work with Jetson nano add 
@@ -123,6 +123,7 @@ Author : https://github.com/habom2310/Heart-rate-measurement-using-camera
 os.environ('CUDA_VISIBLE_DEVICES') = '-1' 
 ```
 * In detail_main.py, this will ensure the script run on CPU. 
+* Install dependencies and connect usb microphone or USB blueotooth dongle
 
 # Reference
 1. https://github.com/habom2310/Heart-rate-measurement-using-camera
