@@ -1,3 +1,5 @@
+[<img src="https://img.youtube.com/vi/cTnMJP2GgdY/maxresdefault.jpg" width="50%">](https://youtu.be/cTnMJP2GgdY)
+
 # CHATBOT-Cough detection and automated response
 
 ## build librnnoise & rnnoise_demo with CMake
