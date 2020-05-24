@@ -28,7 +28,8 @@ and move it the "models" directory
 Copy the skill ID(workspace id). Go to your assitant click on the three dots in the upper right-hand corner and select settings and open API details note down the Assistant id( for android application ), assistant URL Save it for the next step.
 11. Go to IBM functions and create an action with python 3.7 
 12. Open function_action.py and copy-paste it in the Code section. Click on Parameters and add Parameter with Parameter name as "link" and Parameter Value as " https://api.covid19india.org/state_district_wise.json ".
-13. ```
+13.
+```
 cp sample.env .env
 ```
 
