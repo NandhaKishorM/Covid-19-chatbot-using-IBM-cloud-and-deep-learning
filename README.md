@@ -100,6 +100,7 @@ Author : https://github.com/habom2310/Heart-rate-measurement-using-camera
 4. Apply Fast Fourier Transform to the data buffer. Highest peak is the heart-rate
 
 # Nvidia Jetson Nano
+![alt text](https://www.waveshare.com/img/devkit/accBoard/Fan-4010-12V/Fan-4010-12V-3_800.jpg)
 ## GPU: 128-core NVIDIA Maxwell™ architecture-based GPU
 ## CPU: Quad-core ARM® A57
 ## Video: 4K @ 30 fps (H.264/H.265) / 4K @ 60 fps (H.264/H.265) encode and decode
