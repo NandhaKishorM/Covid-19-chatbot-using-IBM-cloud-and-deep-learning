@@ -57,6 +57,7 @@ python app.py
 and go to 127.0.0.1:1880 from your browser
 
 # CHATBOT-Node-Red
+![alt text](https://user-images.githubusercontent.com/4663918/63022233-76304400-be70-11e9-8516-cab988df6b1e.png)
 
 follow this tutorial https://developer.ibm.com/tutorials/create-a-voice-enabled-covid-19-chatbot-using-node-red/
 and import flows.json from folder "node-red app"
