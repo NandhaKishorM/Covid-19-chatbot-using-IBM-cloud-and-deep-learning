@@ -66,6 +66,7 @@ and import flows.json from folder "node-red app"
 Install app-debug.apk
 
 # Emotion recognition
+![alt text](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/11/ms-kim-emotion-e1447262676416.png)
 ```
 cd Emotion recognition
 python main_script.py
