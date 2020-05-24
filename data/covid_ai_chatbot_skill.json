@@ -1,0 +1,4713 @@
+{
+  "intents": [
+    {
+      "intent": "COVID_Paid_Leave",
+      "examples": [
+        {
+          "text": "Will my employer give me paid leave if I have coronavirus?"
+        },
+        {
+          "text": "do i get paid leave time"
+        },
+        {
+          "text": "Can i still get paid sick leave for 14 days if i get corona"
+        },
+        {
+          "text": "can i get paid sick leave"
+        },
+        {
+          "text": "am I eligible for sick leave"
+        },
+        {
+          "text": "am I eligible for paid sick leave"
+        },
+        {
+          "text": "Will I get paid if I have COVID-19?"
+        },
+        {
+          "text": "will Texas provide paid sick leave"
+        },
+        {
+          "text": "will paid sick leave be available for Uber drivers?"
+        },
+        {
+          "text": "who is eligible to get paid sick leave"
+        },
+        {
+          "text": "do I get paid sick leave"
+        },
+        {
+          "text": "who is able to get paid sick leave"
+        },
+        {
+          "text": "tell me about paid sick leave"
+        },
+        {
+          "text": "what if I don't have paid sick leave"
+        },
+        {
+          "text": "What if I don't have paid sick leave?"
+        },
+        {
+          "text": "When am I entitled to take paid sick leave?"
+        },
+        {
+          "text": "paid sick leave"
+        },
+        {
+          "text": "My job will not let me work from home. Do I qualify for paid sick leave?"
+        },
+        {
+          "text": "If I get sick will I continue to get paid?"
+        },
+        {
+          "text": "I work at a grocery store but my childcare is closed, is anything being setup to handle this?"
+        },
+        {
+          "text": "How much paid sick leave will I get if I am contracted with the virus?"
+        },
+        {
+          "text": "Will government employees be paid during sick leave?"
+        },
+        {
+          "text": "Will I get paid leave?"
+        },
+        {
+          "text": "How much do I get paid for sick leave"
+        },
+        {
+          "text": "how long can i get paid sick leave"
+        },
+        {
+          "text": "duration of paid sick leave?"
+        },
+        {
+          "text": "does my workplace offer paid sick leave?"
+        }
+      ],
+      "description": "Eligibility for paid leave."
+    },
+    {
+      "intent": "ChildrenSocializing",
+      "examples": [
+        {
+          "text": "While school’s out, can my child hang out with their friends?"
+        },
+        {
+          "text": "Children socializing"
+        },
+        {
+          "text": "do kids need to limit in person contact?"
+        },
+        {
+          "text": "While school is out can my child go to sports practice?"
+        },
+        {
+          "text": "Can my kid still go to group activities?"
+        },
+        {
+          "text": "Is social distancing important for kids too?"
+        }
+      ],
+      "description": "Child Socialization guidance"
+    },
+    {
+      "intent": "Wherediditstart",
+      "examples": [
+        {
+          "text": "What is the source of the virus?"
+        },
+        {
+          "text": "which location did corona virus start from?"
+        },
+        {
+          "text": "Where did it start"
+        },
+        {
+          "text": "Where did corona virus originate from?"
+        }
+      ],
+      "description": "Handle questions about the origins of the virus in humans"
+    },
+    {
+      "intent": "PreparingChildren",
+      "examples": [
+        {
+          "text": "Preparing children"
+        },
+        {
+          "text": "what should I tell my child about this pandemic?"
+        },
+        {
+          "text": "how do I keep my kids from worrying about the virus?"
+        },
+        {
+          "text": "How do I prepare my children in case of COVID-19 outbreak in our community?"
+        },
+        {
+          "text": "My child is stressed about the crisis how can I help?"
+        }
+      ],
+      "description": "Guidance for calming and protecting children"
+    },
+    {
+      "intent": "COVID_Illness_Length",
+      "examples": [
+        {
+          "text": "How long is the incubation period of covid 19?"
+        },
+        {
+          "text": "How long before I get symptoms?"
+        },
+        {
+          "text": "how long can I expect to be sick?"
+        },
+        {
+          "text": "Incubation period of coronavirus?"
+        },
+        {
+          "text": "How long will I feel terrible?"
+        },
+        {
+          "text": "How long is the incubation period?"
+        },
+        {
+          "text": "How long does the coronavirus last?"
+        },
+        {
+          "text": "How long before I experience covid-19 symptoms?"
+        },
+        {
+          "text": "What is the incubation period of covid?"
+        },
+        {
+          "text": "how long does coronavirus last"
+        },
+        {
+          "text": "how long is the incubation period for covid-19"
+        },
+        {
+          "text": "how long does the corona virus last?"
+        },
+        {
+          "text": "how long does the virus last?"
+        },
+        {
+          "text": "how long does the virus last"
+        },
+        {
+          "text": "How long does the disease last?"
+        },
+        {
+          "text": "how long do symptoms take to develop?"
+        },
+        {
+          "text": "How long do I need to quarantine before I no longer can transmit the virus?"
+        },
+        {
+          "text": "How long does COVID-19 last?"
+        },
+        {
+          "text": "how long does it last"
+        },
+        {
+          "text": "how long does it last?"
+        },
+        {
+          "text": "how long does it take for the virus to run through my system?"
+        },
+        {
+          "text": "How long are people infected with COVID-19 before they are symptomatic?"
+        }
+      ],
+      "description": "How long Covid lasts."
+    },
+    {
+      "intent": "Schoolfromhome",
+      "examples": [
+        {
+          "text": "While school’s out, how can I help my child continue learning?"
+        },
+        {
+          "text": "Tips for my child's schedule when school is canceled."
+        },
+        {
+          "text": "School from home"
+        },
+        {
+          "text": "how do I keep my child engaged in schoolwork?"
+        },
+        {
+          "text": "I need tips for at home learning"
+        }
+      ],
+      "description": "Conducting remote education while school is dismissed"
+    },
+    {
+      "intent": "COVID_Testing_Information",
+      "examples": [
+        {
+          "text": "is there a coronavirus test kit"
+        },
+        {
+          "text": "Is the covid test able to detect infection even during the incubation period?"
+        },
+        {
+          "text": "Is it possible to test for covid 19 during the incubation period?"
+        },
+        {
+          "text": "Is it possible to detect the disease during the incubation period?"
+        },
+        {
+          "text": "I have symptoms. Should I get tested?"
+        },
+        {
+          "text": "I have a fever, should I get tested?"
+        },
+        {
+          "text": "do i need to get tested?"
+        },
+        {
+          "text": "Can I test myself?"
+        },
+        {
+          "text": "can I get tested quickly?"
+        },
+        {
+          "text": "Can I get tested at home?"
+        },
+        {
+          "text": "When is the coronavirus test able to detect the disease?"
+        },
+        {
+          "text": "What is the test to detect covid 19?"
+        },
+        {
+          "text": "testing travelers?"
+        },
+        {
+          "text": "Should we get tested if we only have symptoms"
+        },
+        {
+          "text": "should i get tested if I do not have symptoms but think I've been exposed?"
+        },
+        {
+          "text": "ok - I've got enough of those that I think I need to get tested."
+        },
+        {
+          "text": "my friend has it should i get tested"
+        },
+        {
+          "text": "is there test kit for coronavirus"
+        },
+        {
+          "text": "coronavirus test kit"
+        },
+        {
+          "text": "is there a test kit for coronavirus"
+        },
+        {
+          "text": "Is there a test for the coronavirus"
+        },
+        {
+          "text": "Is there a test kit for the coronavirus?"
+        }
+      ],
+      "description": "General questions about testing."
+    },
+    {
+      "intent": "COVID_Description",
+      "examples": [
+        {
+          "text": "Where can I find more information about covid 19?"
+        },
+        {
+          "text": "what is novel coronavirus?"
+        },
+        {
+          "text": "what is the Corona Virus"
+        },
+        {
+          "text": "what is the coronavirus?"
+        },
+        {
+          "text": "What is covid"
+        },
+        {
+          "text": "What is COVID-19?"
+        },
+        {
+          "text": "what is covid-19"
+        },
+        {
+          "text": "What is COVID?"
+        },
+        {
+          "text": "what is covid19"
+        },
+        {
+          "text": "What is Corona virus?"
+        },
+        {
+          "text": "Where did the coronavirus come from?"
+        },
+        {
+          "text": "where did covid come from?"
+        },
+        {
+          "text": "where did corona virus start from?"
+        },
+        {
+          "text": "Where can I learn more about covid?"
+        },
+        {
+          "text": "covid what is it"
+        },
+        {
+          "text": "Has the cause of COVID-19 been identified?"
+        },
+        {
+          "text": "How dangerous is this?"
+        },
+        {
+          "text": "I heard about covid what is it?"
+        },
+        {
+          "text": "Is covid a disease?"
+        },
+        {
+          "text": "what is the corona virus?"
+        },
+        {
+          "text": "origin of coronavirus"
+        },
+        {
+          "text": "What does covid stand for?"
+        },
+        {
+          "text": "What is corona virus"
+        }
+      ],
+      "description": "Describe Covid-19."
+    },
+    {
+      "intent": "PrepareFamily",
+      "examples": [
+        {
+          "text": "How can my family and I prepare for COVID-19?"
+        },
+        {
+          "text": "Prepare family"
+        },
+        {
+          "text": "how do I prepare my household in case corona virus hits my community?"
+        },
+        {
+          "text": "should my household plan ahead?"
+        },
+        {
+          "text": "what goes into a family emergency plan?"
+        }
+      ],
+      "description": "Family Preparation Guidance"
+    },
+    {
+      "intent": "HowDoesItSpread",
+      "examples": [
+        {
+          "text": "How does the virus spread?"
+        },
+        {
+          "text": "does the corona virus spread easily?"
+        },
+        {
+          "text": "how did the virus spread from China?"
+        },
+        {
+          "text": "is corona virus contagious?"
+        },
+        {
+          "text": "How does it spread"
+        }
+      ],
+      "description": "Info on how COVID Spreads"
+    },
+    {
+      "intent": "COVID_Treatment_Info",
+      "examples": [
+        {
+          "text": "what kind of medicine should I take"
+        },
+        {
+          "text": "What medicine should I avoid taking if I have coronavirus"
+        },
+        {
+          "text": "Can medication be used to reduce fever?"
+        },
+        {
+          "text": "What medicine should I take for COVID 19"
+        },
+        {
+          "text": "what medicine work best for treatment ?"
+        },
+        {
+          "text": "what medicines should I take if I have coronavirus"
+        },
+        {
+          "text": "what medicines work best"
+        },
+        {
+          "text": "Should I take Theraflu?"
+        },
+        {
+          "text": "Can I lower my temperature using medication?"
+        },
+        {
+          "text": "best vitamin to take"
+        },
+        {
+          "text": "Can I take ibuprofen if I have corona virus?"
+        },
+        {
+          "text": "what medicine should I be taking for Covid 19"
+        },
+        {
+          "text": "How can I lower my temperature if I have the coronavirus?"
+        },
+        {
+          "text": "can medication reduce fever caused by a possible covid infection?"
+        },
+        {
+          "text": "How do I treat coronavirus?"
+        },
+        {
+          "text": "How do we treat covid?"
+        },
+        {
+          "text": "How to treat covid?"
+        },
+        {
+          "text": "I heard about a medication for coronavirus treatment"
+        },
+        {
+          "text": "Is there a medication that can help me feel better?"
+        },
+        {
+          "text": "Is there a medication to reduce temperature with covid-19?"
+        },
+        {
+          "text": "What is the treatment for covid-19?"
+        },
+        {
+          "text": "What is the treatment for this disease?"
+        },
+        {
+          "text": "Medication that helps with coronavirus"
+        }
+      ],
+      "description": "How to treat Covid-19."
+    },
+    {
+      "intent": "COVID_Unemployment_Application",
+      "examples": [
+        {
+          "text": "how long does it take to get unemployment"
+        },
+        {
+          "text": "how to apply for unemployment"
+        },
+        {
+          "text": "how long can I get unemployment?"
+        },
+        {
+          "text": "how to I apply for unemployment"
+        },
+        {
+          "text": "i can't go to work.  can i get unemployment?"
+        },
+        {
+          "text": "I have a question about unemployment"
+        },
+        {
+          "text": "I just got laid off, now what?"
+        },
+        {
+          "text": "i need to apply for unemployment.  how do I do it"
+        },
+        {
+          "text": "If I got furloughed, do I qualify for unemployment?"
+        },
+        {
+          "text": "what can I do if I lose my job"
+        },
+        {
+          "text": "what can I do if I lose my job?"
+        },
+        {
+          "text": "apply for unemployment"
+        },
+        {
+          "text": "How am I gonna pay my bills if I don't have a job anymore?"
+        },
+        {
+          "text": "how can i apply for unemployment during this outbreak?"
+        },
+        {
+          "text": "how can I apply for unemployment?"
+        },
+        {
+          "text": "how do I apply for unemployment"
+        },
+        {
+          "text": "how do I apply for unemployment because of covid-19"
+        },
+        {
+          "text": "where can I apply for unemployment"
+        },
+        {
+          "text": "What if I got furloughed?"
+        },
+        {
+          "text": "What happens if I lose my job?"
+        },
+        {
+          "text": "What do I do if I don't have unemployment insurance?"
+        },
+        {
+          "text": "how do I apply for unemployment benefits due to Covid-19?"
+        },
+        {
+          "text": "how do I apply for unemployment benefits?"
+        }
+      ],
+      "description": "How to apply for unemployment."
+    },
+    {
+      "intent": "ProductsFromChina",
+      "examples": [
+        {
+          "text": "is it safe to buy Chinese products?"
+        },
+        {
+          "text": "are packages from China infected?"
+        },
+        {
+          "text": "Products from China"
+        },
+        {
+          "text": "should i stop buying products from China?"
+        },
+        {
+          "text": "Am I at risk for COVID-19 from a package or products shipping from China?"
+        }
+      ],
+      "description": "Guidance regarding packages from China"
+    },
+    {
+      "intent": "ProtectingChildren",
+      "examples": [
+        {
+          "text": "is handwashing important for children?"
+        },
+        {
+          "text": "should I disinfect my kid's toys?"
+        },
+        {
+          "text": "Protecting children"
+        },
+        {
+          "text": "How can I protect my child from COVID-19 infection?"
+        },
+        {
+          "text": "what will protect my kids from getting the infection?"
+        }
+      ],
+      "description": "Guidance for keeping children protected"
+    },
+    {
+      "intent": "CommunitySpread",
+      "examples": [
+        {
+          "text": "What is community spread?"
+        },
+        {
+          "text": "Community Spread"
+        },
+        {
+          "text": "Does  Corona Virus (COVID-19) spread to an entire community?"
+        },
+        {
+          "text": "Can community spread happen? "
+        },
+        {
+          "text": "How does community spread happen? "
+        },
+        {
+          "text": "Why is community spread of this virus important?"
+        },
+        {
+          "text": "What does that term community spread mean?"
+        }
+      ],
+      "description": "Defining Community Spread"
+    },
+    {
+      "intent": "AttendingFuneral",
+      "examples": [
+        {
+          "text": "Are funerals safe? "
+        },
+        {
+          "text": "Should I avoid funerals?"
+        },
+        {
+          "text": "Am I at risk if I go to a funeral or visitation service for someone who died of COVID-19?"
+        },
+        {
+          "text": "Can I go to a funeral of someone who died of  Corona Virus (COVID-19)?"
+        },
+        {
+          "text": "Can I go to a funeral? "
+        }
+      ],
+      "description": "Funeral attendance guidance"
+    },
+    {
+      "intent": "COVID_Symptoms",
+      "examples": [
+        {
+          "text": "how do i know if I got this thing"
+        },
+        {
+          "text": "how do i know if i have this issue"
+        },
+        {
+          "text": "how do I know if i have this thing"
+        },
+        {
+          "text": "How do I know if I'm sick with covid-19?"
+        },
+        {
+          "text": "how to distinguish it from a common cold."
+        },
+        {
+          "text": "What to do if I think I have covid?"
+        },
+        {
+          "text": "Will I poop a lot if I have the virus?"
+        },
+        {
+          "text": "Will I throw up if I have the virus?"
+        },
+        {
+          "text": "Will my head hurt if I have covid 19?"
+        },
+        {
+          "text": "how do i know if im sick"
+        },
+        {
+          "text": "Do I have coronavirus?"
+        },
+        {
+          "text": "do I have covid?"
+        },
+        {
+          "text": "Hi what are the symptoms?"
+        },
+        {
+          "text": "how can one know if they have been infected?"
+        },
+        {
+          "text": "I can not breath very well"
+        },
+        {
+          "text": "I feel congested and have a fever"
+        },
+        {
+          "text": "I have a burning feeling in my chest"
+        },
+        {
+          "text": "I have a fever"
+        },
+        {
+          "text": "i have a sore throat"
+        },
+        {
+          "text": "I have a temperature and cough. Do I have the coronavirus?"
+        },
+        {
+          "text": "I have an irritating cough"
+        },
+        {
+          "text": "I have headache and sore throat, what should I do ?"
+        },
+        {
+          "text": "I have illness symptoms"
+        },
+        {
+          "text": "I have sore throat"
+        },
+        {
+          "text": "I have sore throat, is it coronavirus?"
+        },
+        {
+          "text": "I have traveled recently. What do I do?"
+        },
+        {
+          "text": "I think I feel symptoms of the disease"
+        },
+        {
+          "text": "I think I have covid 19"
+        },
+        {
+          "text": "I think I might have the virus."
+        },
+        {
+          "text": "I think i'm infected"
+        },
+        {
+          "text": "I'm afraid I have covid-19"
+        },
+        {
+          "text": "I'm having respiratory problems"
+        },
+        {
+          "text": "If I only have a sore throat is it Coronavirus?"
+        },
+        {
+          "text": "Is a headache a symptom of the coronavirus?"
+        },
+        {
+          "text": "Is rash a symptom of covid-19?"
+        },
+        {
+          "text": "my child has a high fever and is coughing. what should I do?"
+        },
+        {
+          "text": "My child is coughing. Should I be worried?"
+        },
+        {
+          "text": "my eyes are burning"
+        },
+        {
+          "text": "My girlfriend has symptoms of covid-19"
+        },
+        {
+          "text": "My husband has coronavirus symptoms"
+        },
+        {
+          "text": "my throat and head hurt"
+        },
+        {
+          "text": "my throat hurts and I have a headache as well"
+        },
+        {
+          "text": "am i sick"
+        },
+        {
+          "text": "rhinitis"
+        },
+        {
+          "text": "should I get tested if I have a cough?"
+        },
+        {
+          "text": "Symptoms"
+        },
+        {
+          "text": "tell me about the symptoms"
+        },
+        {
+          "text": "temperature"
+        },
+        {
+          "text": "Wet cough"
+        },
+        {
+          "text": "what are covid 19 symptoms"
+        },
+        {
+          "text": "what are my symptoms"
+        },
+        {
+          "text": "what are symptoms"
+        },
+        {
+          "text": "what are symptoms of coronavirus"
+        },
+        {
+          "text": "What are symptoms?"
+        },
+        {
+          "text": "what are symtoms?"
+        },
+        {
+          "text": "what are the common symptoms"
+        },
+        {
+          "text": "what are the covid symtoms"
+        },
+        {
+          "text": "what are the COVID-19 symptoms?"
+        },
+        {
+          "text": "what are the early symptoms of covid-19?"
+        },
+        {
+          "text": "What are the first symptoms for COVID?"
+        },
+        {
+          "text": "what are the most common symptoms of COVID?"
+        },
+        {
+          "text": "what are the symptoms"
+        },
+        {
+          "text": "what are the symptoms I should look out for"
+        },
+        {
+          "text": "what are the symptoms of coronavirus"
+        },
+        {
+          "text": "what are the symptoms of COVID-19"
+        },
+        {
+          "text": "What are the symptoms of covid?"
+        },
+        {
+          "text": "What are the symptoms of the disease?"
+        },
+        {
+          "text": "What are the symptoms?"
+        },
+        {
+          "text": "what are the types of symptoms"
+        },
+        {
+          "text": "what is the first symptom"
+        },
+        {
+          "text": "what symptoms are typical with this disease"
+        },
+        {
+          "text": "How do I know if I am infected with Covid"
+        },
+        {
+          "text": "how do i know if i got this"
+        }
+      ],
+      "description": "Symptoms of Covid-19."
+    },
+    {
+      "intent": "CDC_Response",
+      "examples": [
+        {
+          "text": "What is the center for disease control doing to help?"
+        },
+        {
+          "text": "Does CDC work to protect public health?"
+        },
+        {
+          "text": "CDC response"
+        },
+        {
+          "text": "What is CDC doing about COVID-19?"
+        },
+        {
+          "text": "How is CDC helping Americans prepare?"
+        }
+      ],
+      "description": "Info about the CDC"
+    },
+    {
+      "intent": "PersonToPerson",
+      "examples": [
+        {
+          "text": "Can I catch it from my friend?"
+        },
+        {
+          "text": "Can someone who has had COVID-19 spread the illness to others?"
+        },
+        {
+          "text": "Why is  Corona Virus (COVID-19) spreading between people?"
+        },
+        {
+          "text": "Why is it so contagious?"
+        },
+        {
+          "text": "Who can I get it from?"
+        },
+        {
+          "text": "person to person"
+        },
+        {
+          "text": "How does  Corona Virus (COVID-19) spread?"
+        },
+        {
+          "text": "Can  Corona Virus (COVID-19) spread from person-to-person?"
+        }
+      ],
+      "description": "Info on how Coronavirus spreads person to person"
+    },
+    {
+      "intent": "COVID_Travel_Restrictions",
+      "examples": [
+        {
+          "text": "should i travel?"
+        },
+        {
+          "text": "Is it safe to fly to Seattle?"
+        },
+        {
+          "text": "Is driving considered travel?"
+        },
+        {
+          "text": "Is commercial air travel suspended too?"
+        },
+        {
+          "text": "Can I travel out of the country?"
+        },
+        {
+          "text": "can I travel to Arkansas"
+        },
+        {
+          "text": "Can I travel in the current emergency situation?"
+        },
+        {
+          "text": "I traveled to Italy recently. What do I do?"
+        },
+        {
+          "text": "I just travelled. What do I do?"
+        },
+        {
+          "text": "do i need to stay home"
+        },
+        {
+          "text": "Do I need a doctor's note to travel?"
+        },
+        {
+          "text": "Should I change my travel plans?"
+        },
+        {
+          "text": "Should I cancel my flight to Denver?"
+        },
+        {
+          "text": "What counts as travel?"
+        },
+        {
+          "text": "What if I urgently need to take a flight?"
+        },
+        {
+          "text": "Can I visit relatives in another state?"
+        },
+        {
+          "text": "Can I travel?"
+        },
+        {
+          "text": "airline travel"
+        },
+        {
+          "text": "Are there any travel restrictions in place yet?"
+        },
+        {
+          "text": "Can I travel for work?"
+        }
+      ],
+      "description": "Status of travel restrictions."
+    },
+    {
+      "intent": "Whythename",
+      "examples": [
+        {
+          "text": "is covid an abbreviation?"
+        },
+        {
+          "text": "Why is the disease being called coronavirus disease 2019, COVID-19?"
+        },
+        {
+          "text": "why is covid-19 the name for this disease?"
+        },
+        {
+          "text": "is corona virus the same as covid-19?"
+        },
+        {
+          "text": "why was covid-19 used to name this disease?"
+        },
+        {
+          "text": "Why the name"
+        }
+      ],
+      "description": "Answer how the name for this virus and disease arose."
+    },
+    {
+      "intent": "Stigmatizedgroups",
+      "examples": [
+        {
+          "text": "is the pandemic causing discrimination against Chinese people?"
+        },
+        {
+          "text": "What causes stereotyping and blame?"
+        },
+        {
+          "text": "Why might someone blame or avoid individuals and groups (create stigma) because of COVID-19?"
+        },
+        {
+          "text": "Stigmatized groups"
+        },
+        {
+          "text": "are Asian people being unfarely blamed for corona virus?"
+        }
+      ],
+      "description": "About racial discrimination or shaming"
+    },
+    {
+      "intent": "How_many_cases",
+      "examples": [
+        {
+          "text": "Total Cases so Far"
+        },
+        {
+          "text": "What is the stats on Corona Virus?"
+        },
+        {
+          "text": "What are the stats on COVID-19?"
+        },
+        {
+          "text": "How many cases so far?"
+        },
+        {
+          "text": "How many cases of covid 19 have been detected?"
+        },
+        {
+          "text": "How many cases of Covid 19 has been detected?"
+        },
+        {
+          "text": "How many cases of corona virus has been detected?"
+        }
+      ],
+      "description": "Stats on number of infections"
+    },
+    {
+      "intent": "Testing",
+      "examples": [
+        {
+          "text": "can my doctor test me if I start feeling sick?"
+        },
+        {
+          "text": "Testing"
+        },
+        {
+          "text": "Should I be tested for COVID-19?"
+        },
+        {
+          "text": "should I head to the doctor if I show symptoms?"
+        },
+        {
+          "text": "who should get tested?"
+        }
+      ],
+      "description": "When, where, how of getting yourself tested"
+    },
+    {
+      "intent": "COVID_Testing_Locations",
+      "examples": [
+        {
+          "text": "how do you test"
+        },
+        {
+          "text": "how do I get screened?"
+        },
+        {
+          "text": "how do i get a test?"
+        },
+        {
+          "text": "testing spots for coronavirus?"
+        },
+        {
+          "text": "testing locations?"
+        },
+        {
+          "text": "set an appointment for covid testing"
+        },
+        {
+          "text": "where can I get a test kit"
+        },
+        {
+          "text": "where can i get a test"
+        },
+        {
+          "text": "where can I get a test done"
+        },
+        {
+          "text": "Can I test myself at my house?"
+        },
+        {
+          "text": "Can I get tested at my doctor's?"
+        },
+        {
+          "text": "Can I get tested at Walgreens?"
+        },
+        {
+          "text": "can you direct me to the nearest test center"
+        },
+        {
+          "text": "where can i get tested for coronavirus"
+        },
+        {
+          "text": "Where can I get tested for coronavirus?"
+        },
+        {
+          "text": "Where can I get tested for cover-19"
+        },
+        {
+          "text": "where can I be tested"
+        },
+        {
+          "text": "where can I get a coronavirus test"
+        },
+        {
+          "text": "Where can I get a COVID-19 test?"
+        },
+        {
+          "text": "where can I get a test done?"
+        },
+        {
+          "text": "how do I get a coronavirus test?"
+        },
+        {
+          "text": "how can i get screened"
+        },
+        {
+          "text": "How can I get a test"
+        },
+        {
+          "text": "How can I get a coronavirus test?"
+        },
+        {
+          "text": "Where can I get tested for Corona?"
+        },
+        {
+          "text": "where can i get screened?"
+        },
+        {
+          "text": "where can I get a test?"
+        },
+        {
+          "text": "None of those sound like they cover how to get tested. Can you tell me how/where I can get tested?"
+        },
+        {
+          "text": "I want to test myself for coronavirus soon"
+        },
+        {
+          "text": "I want to make an appointment for testing"
+        },
+        {
+          "text": "I want to get tested for covid soon"
+        },
+        {
+          "text": "I want to be tested for covid-19"
+        },
+        {
+          "text": "I want a test for coronavirus"
+        },
+        {
+          "text": "I want a coronavirus test"
+        },
+        {
+          "text": "where do I get a test"
+        },
+        {
+          "text": "where can i get tested"
+        },
+        {
+          "text": "Where can I test"
+        },
+        {
+          "text": "where can I order a coronavirus test"
+        },
+        {
+          "text": "I live in Austin, where can I get tested for Covid-19"
+        },
+        {
+          "text": "where can I get tested for the coronavirus in New York"
+        },
+        {
+          "text": "where can I get tested in alabama"
+        },
+        {
+          "text": "where can I get tested in Houston?"
+        },
+        {
+          "text": "where can I get tested in new mexico"
+        },
+        {
+          "text": "Where can I go to get tested for COVID?"
+        },
+        {
+          "text": "i have symptoms. where can i get tested?"
+        },
+        {
+          "text": "i am in new york where should i get tested"
+        },
+        {
+          "text": "How do I get tested?"
+        },
+        {
+          "text": "I need to get tested, where can I go?"
+        },
+        {
+          "text": "I need to be checked for covid 19."
+        },
+        {
+          "text": "I live in Ontario, where can I get tested?"
+        },
+        {
+          "text": "Who do I contact if I want to get tested for covid 19 infection?"
+        },
+        {
+          "text": "where should I go to get screened"
+        },
+        {
+          "text": "where I can get tested"
+        },
+        {
+          "text": "Where do I go for COVID19 testing?"
+        }
+      ],
+      "description": "Where to get tested."
+    },
+    {
+      "intent": "Symptoms",
+      "examples": [
+        {
+          "text": "does covid-19 cause coughing?"
+        },
+        {
+          "text": "what symptoms should I watch for?"
+        },
+        {
+          "text": "What are the symptoms and complications that COVID-19 can cause?"
+        },
+        {
+          "text": "Symptoms"
+        },
+        {
+          "text": "does covid-19 cause fever?"
+        },
+        {
+          "text": "is fever a sign of this infection?"
+        }
+      ],
+      "description": "General info on symptoms of covid-19 disease"
+    },
+    {
+      "intent": "HealthDeptRecommendedActions",
+      "examples": [
+        {
+          "text": "Health dept recommended actions"
+        },
+        {
+          "text": "how do I ship a specimen to the CDC lab?"
+        },
+        {
+          "text": "can CDC help my local board of health"
+        },
+        {
+          "text": "can CDC help my local health dept get protective gear?"
+        },
+        {
+          "text": "What should healthcare professionals and health departments do?"
+        },
+        {
+          "text": "does CDC provide protocols for labs to test covid-19?"
+        }
+      ],
+      "description": "Recommended actions by from the Health Dept"
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": []
+    },
+    {
+      "intent": "COVID_Comparing_Illness",
+      "examples": [
+        {
+          "text": "flu vs covid19"
+        },
+        {
+          "text": "SARS vs Corona virus?"
+        },
+        {
+          "text": "What is different between flu and coronavirus"
+        },
+        {
+          "text": "What is the difference between COVID-19 and the flu"
+        },
+        {
+          "text": "what is the difference between flu and coronavirus"
+        },
+        {
+          "text": "what is the difference between the flu and coronavirus"
+        },
+        {
+          "text": "What's the difference between flu and coronavirus"
+        },
+        {
+          "text": "What's the difference between flu and coronavirus?"
+        },
+        {
+          "text": "Is the coronavirus the same as MERS?"
+        },
+        {
+          "text": "what's the difference between the flu and coronavirus"
+        },
+        {
+          "text": "is covid the same as the flu?"
+        },
+        {
+          "text": "is this worse than flu"
+        },
+        {
+          "text": "is this worse than flue"
+        },
+        {
+          "text": "Is this worse than the flu?"
+        },
+        {
+          "text": "Is the coronavirus the same as SARS?"
+        },
+        {
+          "text": "How's the flu different from coronavirus?"
+        },
+        {
+          "text": "how is the flue different from the coronavirus?"
+        },
+        {
+          "text": "How is flu different from coronavirus"
+        },
+        {
+          "text": "How is corona virus different than SARS?"
+        },
+        {
+          "text": "how does cover-19 compare to the SARS epidemic?"
+        },
+        {
+          "text": "How do flu symptoms differ from coronavirus symptoms?"
+        },
+        {
+          "text": "Flu vs. COVID-19"
+        },
+        {
+          "text": "Flu vs Coronavirus"
+        },
+        {
+          "text": "is this the same as the flu?"
+        },
+        {
+          "text": "Is the coronavirus the same as a cold?"
+        }
+      ],
+      "description": "Comparing Covid to other illnesses."
+    },
+    {
+      "intent": "AnimalContact",
+      "examples": [
+        {
+          "text": "can my dog catch corona virus?"
+        },
+        {
+          "text": "can I get this from my cat?"
+        },
+        {
+          "text": "can I get this from my dog?"
+        },
+        {
+          "text": "do dogs and cats get sick from corona virus?"
+        },
+        {
+          "text": "Animal contact"
+        },
+        {
+          "text": "can I get covid-19 from my pet?"
+        },
+        {
+          "text": "Should I avoid contact with pets or other animals if I am sick with COVID-19?"
+        }
+      ],
+      "description": "Human - Animal interaction guidance"
+    },
+    {
+      "intent": "HigherRiskPopulations",
+      "examples": [
+        {
+          "text": "Are older adults more likely to contract the disease?"
+        },
+        {
+          "text": "Can Gen-X get sick? "
+        },
+        {
+          "text": "Can Millennials get it? "
+        },
+        {
+          "text": "I have underlying health issues."
+        },
+        {
+          "text": "What does immunocompromised mean? "
+        },
+        {
+          "text": "I have a chronic illness."
+        },
+        {
+          "text": "I am over the age of 60."
+        },
+        {
+          "text": "How does this impact the elderly? "
+        },
+        {
+          "text": "Who is at higher risk for serious illness from COVID-19?"
+        },
+        {
+          "text": "Why do Boomers get sick? "
+        },
+        {
+          "text": "Do seniors need to take extra precautions?"
+        },
+        {
+          "text": "Who is dying? "
+        },
+        {
+          "text": "How does it affect immunocompromised people? "
+        },
+        {
+          "text": "Higher risk populations"
+        },
+        {
+          "text": "Does Gen-Y get it?"
+        },
+        {
+          "text": "Does  Corona Virus (COVID-19) affect older people more?"
+        },
+        {
+          "text": "Why are people with pre-existing conditions more at risk?"
+        },
+        {
+          "text": "Are all the old people going to die? "
+        }
+      ],
+      "description": "Identify which populations are at higher risk"
+    },
+    {
+      "intent": "COVID_Masks_Protection",
+      "examples": [
+        {
+          "text": "Can a mask help me?"
+        },
+        {
+          "text": "What is a cloth face covering and how does it help?"
+        },
+        {
+          "text": "When should I wear a mask?"
+        },
+        {
+          "text": "When should I wear a respirator?"
+        },
+        {
+          "text": "Will a respirator help me?"
+        },
+        {
+          "text": "Do I have to wear a respirator?"
+        },
+        {
+          "text": "Do I have to wear a mask when I'm outside or taking a walk?"
+        },
+        {
+          "text": "Can I go out without a respirator?"
+        },
+        {
+          "text": "Am I supposed to wear a face covering?"
+        },
+        {
+          "text": "Do I need to wear a face mask?"
+        },
+        {
+          "text": "Does a mask or respirator help prevent covid infection?"
+        },
+        {
+          "text": "Does the CDC say to cover your face?"
+        },
+        {
+          "text": "Does the government recommend wearing masks?"
+        },
+        {
+          "text": "I often travel by public transport. Should I wear a respirator?"
+        },
+        {
+          "text": "Should I buy a respirator?"
+        },
+        {
+          "text": "Should I cover my face in public?"
+        },
+        {
+          "text": "Should I have something on my face when I go out?"
+        },
+        {
+          "text": "Should I wear a mask or a respirator?"
+        },
+        {
+          "text": "Should I wear a mask so I don't get infected?"
+        },
+        {
+          "text": "should I wear a respirator?"
+        }
+      ],
+      "description": "Explaining how masks can protect."
+    },
+    {
+      "intent": "COVID_Shopping_Groceries",
+      "examples": [
+        {
+          "text": "Is it safe to go to the grocery store?"
+        },
+        {
+          "text": "Is it safe to go to Costco?"
+        },
+        {
+          "text": "Is it safe to go out to buy food and staples?"
+        },
+        {
+          "text": "Is it risky to buy food at the store?"
+        },
+        {
+          "text": "Is it okay to go grocery shopping?"
+        },
+        {
+          "text": "is it ok for me to go to the grocery store"
+        },
+        {
+          "text": "can I still go grocery shopping"
+        },
+        {
+          "text": "Can I still go to the grocery store?"
+        },
+        {
+          "text": "can we go to the store?"
+        },
+        {
+          "text": "How should I get groceries?"
+        },
+        {
+          "text": "I am in a high risk group. Can I buy my own food and medicine?"
+        },
+        {
+          "text": "I need medicine. Can I go to the store?"
+        },
+        {
+          "text": "can I go to the grocery store or will I catch corona"
+        },
+        {
+          "text": "can i go to the grocery store"
+        },
+        {
+          "text": "can I go to grocery stores"
+        },
+        {
+          "text": "are grocery stores still open"
+        },
+        {
+          "text": "Am I allowed to go to the grocery store?"
+        },
+        {
+          "text": "Can I go to the grocery store?"
+        },
+        {
+          "text": "can i go to the store."
+        },
+        {
+          "text": "what grocery store in keller is open?"
+        }
+      ],
+      "description": "Status of grocery stores."
+    },
+    {
+      "intent": "COVID_Event_Shutdowns",
+      "examples": [
+        {
+          "text": "Will I get a refund for a ticket I purchased?"
+        },
+        {
+          "text": "Are churches closed"
+        },
+        {
+          "text": "Why is the government shutting down my event?"
+        },
+        {
+          "text": "When will the NHL return?"
+        },
+        {
+          "text": "Are events being shut down?"
+        },
+        {
+          "text": "Are groups of people allowed to meet?"
+        },
+        {
+          "text": "Are the museums closed?"
+        },
+        {
+          "text": "can i go to church"
+        },
+        {
+          "text": "can I still attend a conference"
+        },
+        {
+          "text": "can my church still meet"
+        },
+        {
+          "text": "event shutdowns"
+        },
+        {
+          "text": "events and large gatherings"
+        },
+        {
+          "text": "How do I know if my concert is cancelled?"
+        },
+        {
+          "text": "Is it okay to partake in sports activities?"
+        },
+        {
+          "text": "public events cancelled"
+        },
+        {
+          "text": "Should I feel safe going to the movies?"
+        },
+        {
+          "text": "What is the maximum number of people allowed to meet right now?"
+        },
+        {
+          "text": "What sports are being cancelled?"
+        },
+        {
+          "text": "When are sports going to start back up?"
+        },
+        {
+          "text": "When will the major sports leagues start playing again?"
+        },
+        {
+          "text": "When will the NCAA championships be held?"
+        }
+      ],
+      "description": "Event shutdowns and business closures."
+    },
+    {
+      "intent": "WhatisCovid",
+      "examples": [
+        {
+          "text": "How did the  Corona Virus (COVID-19) spread from China?"
+        },
+        {
+          "text": "covid 19"
+        },
+        {
+          "text": "Why did  Corona Virus (COVID-19) spread?"
+        },
+        {
+          "text": "Where was  Corona Virus (COVID-19) first spotted."
+        },
+        {
+          "text": "When did  Corona Virus (COVID-19) appear?"
+        },
+        {
+          "text": "What is SARS-CoV-2?"
+        },
+        {
+          "text": "Carona Virus"
+        },
+        {
+          "text": "What is a novel coronavirus?"
+        },
+        {
+          "text": "When did  Corona Virus (COVID-19) start?"
+        },
+        {
+          "text": "what is carona virus?"
+        },
+        {
+          "text": "What is Covid"
+        },
+        {
+          "text": "What is COVID 19?"
+        },
+        {
+          "text": "Where did  Corona Virus (COVID-19) appear?"
+        }
+      ],
+      "description": "Description and definition of COVID19"
+    },
+    {
+      "intent": "COVID_Masks_Availability",
+      "examples": [
+        {
+          "text": "Where are face masks available?"
+        },
+        {
+          "text": "When will masks be available at retail stores? They are not yet and we can get infected on public transport before they are."
+        },
+        {
+          "text": "Who has masks and respirators?"
+        },
+        {
+          "text": "Where can I get masks?"
+        },
+        {
+          "text": "Are there stores with protective face masks?"
+        },
+        {
+          "text": "Help me get a respirator"
+        },
+        {
+          "text": "How can I get a mask?"
+        },
+        {
+          "text": "How is it possible that the state does not have enough masks and respirators?"
+        },
+        {
+          "text": "I'd like a respirator"
+        },
+        {
+          "text": "When can I buy a mask at a pharmacy?"
+        },
+        {
+          "text": "When can I buy a mask?"
+        },
+        {
+          "text": "When will masks be available?"
+        },
+        {
+          "text": "When will respirators and masks be finally sold?"
+        },
+        {
+          "text": "Where do people get protective masks or disinfectants?"
+        },
+        {
+          "text": "Why can't I get or find a mask or a respirator anywhere?"
+        },
+        {
+          "text": "Why aren't there respirators?"
+        },
+        {
+          "text": "Why aren't there enough masks and respirators?"
+        },
+        {
+          "text": "why aren't any masks available?"
+        },
+        {
+          "text": "Why are there no masks and respirators in pharmacies?"
+        },
+        {
+          "text": "Why are no masks or respirators available anywhere?"
+        }
+      ],
+      "description": "Availability of masks."
+    },
+    {
+      "intent": "warmerweather",
+      "examples": [
+        {
+          "text": "i heard the spread will slow down in warmer months"
+        },
+        {
+          "text": "warmer weather"
+        },
+        {
+          "text": "Will warm weather stop the outbreak of COVID-19?"
+        },
+        {
+          "text": "will the virus go away during warmer months?"
+        },
+        {
+          "text": "does it get less contagious in the summer?"
+        }
+      ],
+      "description": "Does warmer weather or summer weather have an effect on the virus or the pandemic"
+    },
+    {
+      "intent": "ReduceFamilyRisk",
+      "examples": [
+        {
+          "text": "What should I have my family do to keep from getting sick?"
+        },
+        {
+          "text": "What steps can my family take to reduce our risk of getting COVID-19?"
+        },
+        {
+          "text": "what are the top tips to keep my family from catching it?"
+        },
+        {
+          "text": "Reduce family risk"
+        },
+        {
+          "text": "lower my family's risk of getting sick"
+        }
+      ],
+      "description": "Guidance on reducing risk to your family"
+    },
+    {
+      "intent": "RiskToPets",
+      "examples": [
+        {
+          "text": "Risk to pets"
+        },
+        {
+          "text": "Should I be concerned about pets or other animals and COVID-19?"
+        },
+        {
+          "text": "Can corona virus affect the pets?"
+        },
+        {
+          "text": "Are my pets in risk?"
+        },
+        {
+          "text": "Is there any danger to pets?"
+        }
+      ],
+      "description": "Guidance on potential risk to Pets"
+    },
+    {
+      "intent": "COVID_School_shutdown",
+      "examples": [
+        {
+          "text": "are schools closed in my area"
+        },
+        {
+          "text": "when can my kid go back to high school"
+        },
+        {
+          "text": "when can my kid go back school"
+        },
+        {
+          "text": "when can my high school senior go back to school"
+        },
+        {
+          "text": "ARE COLLEGES OPEN"
+        },
+        {
+          "text": "Are my children's schools closed?"
+        },
+        {
+          "text": "Are my schools closed"
+        },
+        {
+          "text": "are my schools closed?"
+        },
+        {
+          "text": "are schools closed"
+        },
+        {
+          "text": "are schools closed ?"
+        },
+        {
+          "text": "Will there be school in the summer?"
+        },
+        {
+          "text": "Will there be exams in the summer?"
+        },
+        {
+          "text": "Are schools open?"
+        },
+        {
+          "text": "Are schools shut down?"
+        },
+        {
+          "text": "Can my child go to school?"
+        },
+        {
+          "text": "can my kids return to high school"
+        },
+        {
+          "text": "How can I get the latest news on my school closure?"
+        },
+        {
+          "text": "How will the shutdown impact my child's attendance records?"
+        },
+        {
+          "text": "I live in 78709. when will my kids high school reopen?"
+        },
+        {
+          "text": "Is graduation delayed?"
+        },
+        {
+          "text": "Is HS 123 open?"
+        },
+        {
+          "text": "is my kids school closed"
+        },
+        {
+          "text": "Is my kids school closed?"
+        },
+        {
+          "text": "is my school closed"
+        },
+        {
+          "text": "Is my school closed?"
+        },
+        {
+          "text": "is the school closed"
+        },
+        {
+          "text": "Should my child stay home from school?"
+        },
+        {
+          "text": "What does the ordered school closure mean for report cards?"
+        },
+        {
+          "text": "What happens after the ordered three-week closure period ends?"
+        },
+        {
+          "text": "what schools are closed"
+        },
+        {
+          "text": "When can I return to school?"
+        },
+        {
+          "text": "Will classes be moved to summer?"
+        },
+        {
+          "text": "Will students still graduate this year?"
+        },
+        {
+          "text": "when can i send my kids back to school"
+        },
+        {
+          "text": "when can kid go back to school"
+        },
+        {
+          "text": "when can kids return to school"
+        },
+        {
+          "text": "Will graduations be pushed back?"
+        },
+        {
+          "text": "Which schools are closed?"
+        },
+        {
+          "text": "where can my kids go back to school"
+        },
+        {
+          "text": "When will the schools open?"
+        },
+        {
+          "text": "When will schools close?"
+        },
+        {
+          "text": "when will my kids school reopen"
+        },
+        {
+          "text": "When will my kids be back in school?"
+        },
+        {
+          "text": "When will my good go back to school?"
+        },
+        {
+          "text": "When is school back in session?"
+        },
+        {
+          "text": "When does covid vacation end?"
+        },
+        {
+          "text": "when do the children go back to school"
+        },
+        {
+          "text": "when can my kids go back to school"
+        },
+        {
+          "text": "when can my kids go back to high school in 78712"
+        },
+        {
+          "text": "when can my kids go back to college?"
+        },
+        {
+          "text": "when can my kids back school"
+        },
+        {
+          "text": "when can my kid go back to school"
+        },
+        {
+          "text": "When can my kid go back to college"
+        },
+        {
+          "text": "are schools closed?"
+        },
+        {
+          "text": "are schools in my area closed"
+        },
+        {
+          "text": "are schools open"
+        }
+      ],
+      "description": "Information on school shutdowns."
+    },
+    {
+      "intent": "MealsForStudents",
+      "examples": [
+        {
+          "text": "While school’s out, will kids have access to meals?"
+        },
+        {
+          "text": "Meals for students"
+        },
+        {
+          "text": "how are students on school lunch plans getting their meals?"
+        },
+        {
+          "text": "will school students be able to get their free meals?"
+        },
+        {
+          "text": "are schools continuing to serve school lunch plans even if classes are closed?"
+        }
+      ],
+      "description": "Info regarding school and student meals"
+    },
+    {
+      "intent": "InfectedFamilyMember",
+      "examples": [
+        {
+          "text": "do I need to quarantine ill family members?"
+        },
+        {
+          "text": "Infected family member"
+        },
+        {
+          "text": "what do i do when someone in my home gets it?"
+        },
+        {
+          "text": "my roommate has corona virus what should I do?"
+        },
+        {
+          "text": "What should I do if someone in my house gets sick with COVID-19?"
+        }
+      ],
+      "description": "Guidance if a Family Member is infected"
+    },
+    {
+      "intent": "ChildrenAndFaceMasks",
+      "examples": [
+        {
+          "text": "Should children wear masks?"
+        },
+        {
+          "text": "children"
+        },
+        {
+          "text": "Children and facemasks"
+        },
+        {
+          "text": "can my child play outside without a mask?"
+        },
+        {
+          "text": "does my daughter need to wear a facemask?"
+        },
+        {
+          "text": "are facemasks recommended for children"
+        }
+      ],
+      "description": "Guidance regarding Children wearing Facemasks"
+    },
+    {
+      "intent": "HandwashingTips",
+      "examples": [
+        {
+          "text": "is hand sanitizer effective against covid-19?"
+        },
+        {
+          "text": "how do i wash my hands correctly?"
+        },
+        {
+          "text": "Should I use soap and water or a hand sanitizer to protect against COVID-19?"
+        },
+        {
+          "text": "should i keep washing my hands"
+        },
+        {
+          "text": "Handwashing tips"
+        },
+        {
+          "text": "handwashing products"
+        },
+        {
+          "text": "will washing my hands help protect me?"
+        },
+        {
+          "text": "will frequent handwashing help?"
+        }
+      ],
+      "description": "Hand Washing Guidance"
+    },
+    {
+      "intent": "ReportingToWork",
+      "examples": [
+        {
+          "text": "what are my work from home options?"
+        },
+        {
+          "text": "will my office be closed?"
+        },
+        {
+          "text": "I'm supposed to work but my child's school is canceled"
+        },
+        {
+          "text": "Should I go to work if there is an outbreak in my community?"
+        },
+        {
+          "text": "Reporting to work"
+        }
+      ],
+      "description": "Guidance on going in to work"
+    },
+    {
+      "intent": "spreadinquarantine",
+      "examples": [
+        {
+          "text": "does putting infected people into quarantine help?"
+        },
+        {
+          "text": "spread in quarantine"
+        },
+        {
+          "text": "does quarantining people stop the spread of corona virus?"
+        },
+        {
+          "text": "Can someone who has been quarantined for COVID-19 spread the illness to others?"
+        },
+        {
+          "text": "what is the incubation period of this corona virus?"
+        },
+        {
+          "text": "what is a quarantine?"
+        }
+      ],
+      "description": "does quarantining people stop the spread of corona virus?"
+    },
+    {
+      "intent": "spreadviafood",
+      "examples": [
+        {
+          "text": "Can the virus that causes COVID-19 be spread through food, including refrigerated or frozen food?"
+        },
+        {
+          "text": "do I need to wash my groceries?"
+        },
+        {
+          "text": "spread via food"
+        },
+        {
+          "text": "does the virus stick to packaged food?"
+        },
+        {
+          "text": "does it spread on food packaging?"
+        }
+      ],
+      "description": "Virus spread from food or food packaging"
+    },
+    {
+      "intent": "News_Corona_Virus",
+      "examples": [
+        {
+          "text": "Whats happening?"
+        },
+        {
+          "text": "NEWS"
+        },
+        {
+          "text": "cases"
+        },
+        {
+          "text": "What is in the NEWS?"
+        },
+        {
+          "text": "case"
+        },
+        {
+          "text": "whats happening"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "RiskToChildren",
+      "examples": [
+        {
+          "text": "Are kids at increased risk of infection?"
+        },
+        {
+          "text": "What is the risk of my child becoming sick with COVID-19?"
+        },
+        {
+          "text": "Risk to children"
+        },
+        {
+          "text": "Are children at higher risk of getting sick?"
+        },
+        {
+          "text": "do children catch covid-19?"
+        },
+        {
+          "text": "Can corona virus infect an infant?"
+        }
+      ],
+      "description": "Guidance on potential risk to Children"
+    },
+    {
+      "intent": "COVID_Quarantine",
+      "examples": [
+        {
+          "text": "How long does it take to quarantine?"
+        },
+        {
+          "text": "How long should I quarantine?"
+        },
+        {
+          "text": "how long will we have to self quarantine?"
+        },
+        {
+          "text": "Are people in quarantine checked?"
+        },
+        {
+          "text": "Who is responsible for quarantined people?"
+        },
+        {
+          "text": "What should I do in quarantine?"
+        },
+        {
+          "text": "What should I do if I have been quarantined?"
+        },
+        {
+          "text": "What if I break quarantine?"
+        },
+        {
+          "text": "What exactly is home quarantine?"
+        },
+        {
+          "text": "What can I do when I'm in quarantine?"
+        },
+        {
+          "text": "Is anyone checking for compliance with those ordered to quarantine?"
+        },
+        {
+          "text": "If infected, how long should individuals self-quarantine?"
+        },
+        {
+          "text": "if i have symptoms, how long should i quarantine for?"
+        },
+        {
+          "text": "A colleague is breaking quarantine what should I do?"
+        },
+        {
+          "text": "If I have Covid how long do I have to self isolate"
+        },
+        {
+          "text": "How long should you self-quarantine?"
+        },
+        {
+          "text": "How long should I be in quarantine?"
+        },
+        {
+          "text": "How long do I have to stay in quarantine?"
+        },
+        {
+          "text": "How long do I have to self isolate if I have tested positive?"
+        },
+        {
+          "text": "How long do I have to be stuck at home?"
+        },
+        {
+          "text": "How does Quarantine work?"
+        }
+      ],
+      "description": "Quarantine requirements."
+    },
+    {
+      "intent": "NegativeTestResults",
+      "examples": [
+        {
+          "text": "Negative test results"
+        },
+        {
+          "text": "Does a negative test mean a person does not have COVID-19?"
+        },
+        {
+          "text": "Can a person test negative and later test positive for COVID-19?"
+        },
+        {
+          "text": "if you test negative can you still get COVID-19 later?"
+        },
+        {
+          "text": "Can you have corona virus and still test negative?"
+        }
+      ],
+      "description": "Considerations for receiving negative test results"
+    },
+    {
+      "intent": "Wearingfacemasks",
+      "examples": [
+        {
+          "text": "Does CDC recommend the use of facemask to prevent COVID-19?"
+        },
+        {
+          "text": "Someone in my household is sick should we wear masks at home?"
+        },
+        {
+          "text": "Do face masks do anything?"
+        },
+        {
+          "text": "What do face masks do? "
+        },
+        {
+          "text": "Do I need to wear a face mask?"
+        },
+        {
+          "text": "Wearing face masks"
+        },
+        {
+          "text": "Should my child wear a face mask?"
+        },
+        {
+          "text": "Should I wear a face mask?"
+        },
+        {
+          "text": "Should I use a face mask when in public?"
+        }
+      ],
+      "description": "General facemask questions"
+    },
+    {
+      "intent": "COVID_Cleaning_Disinfecting",
+      "examples": [
+        {
+          "text": "Do I need lysol wipes?"
+        },
+        {
+          "text": "mopping products"
+        },
+        {
+          "text": "What kind of disinfectant should I use?"
+        },
+        {
+          "text": "Whats the difference between cleaning and disinfecting?"
+        },
+        {
+          "text": "Are there disinfectants available that can inactivate (kill) COVID-19?"
+        },
+        {
+          "text": "cleaning products"
+        },
+        {
+          "text": "disinfectant products"
+        },
+        {
+          "text": "Do I have to use bleach to kill coronavirus?"
+        },
+        {
+          "text": "Do I need to disinfect my cell phone when I get home"
+        },
+        {
+          "text": "Does alcohol kill the coronavirus?"
+        },
+        {
+          "text": "All the stores are out of disinfecting wipes, what do I do?"
+        },
+        {
+          "text": "how do i get rid of germs at my home"
+        },
+        {
+          "text": "How often do I need to clean my home to prevent the spread of coronavirus?"
+        },
+        {
+          "text": "How should I wash my clothes if I may have been exposed to COVID-19?"
+        },
+        {
+          "text": "is lysol enough to get rid of covid virus from countertops"
+        },
+        {
+          "text": "Which surfaces are most important to disinfect?"
+        },
+        {
+          "text": "Should I spray myself or my kids with disinfectant?"
+        },
+        {
+          "text": "What cleaning methods kill the coronavirus?"
+        },
+        {
+          "text": "what cleaning regimen should I follow"
+        },
+        {
+          "text": "What is the best way to clean?"
+        },
+        {
+          "text": "How do I clean my home properly?"
+        }
+      ],
+      "description": "How to clean and disinfect."
+    },
+    {
+      "intent": "COVID_Case_Count",
+      "examples": [
+        {
+          "text": "How many cases of the virus are there in the world?"
+        },
+        {
+          "text": "How has coronavirus spread around the world?"
+        },
+        {
+          "text": "How many people have covid-19 in the whole world?"
+        },
+        {
+          "text": "how many people have the virus?"
+        },
+        {
+          "text": "how many people in texas have corona virus?"
+        },
+        {
+          "text": "Which countries has covid-19 been detected in?"
+        },
+        {
+          "text": "Where can I find information about covid 19 for the world?"
+        },
+        {
+          "text": "How many people have the virus in our county"
+        },
+        {
+          "text": "Where are cases?"
+        },
+        {
+          "text": "covid number in my state?"
+        },
+        {
+          "text": "is anyone near me sick"
+        },
+        {
+          "text": "how many ppl are infected in the us?"
+        },
+        {
+          "text": "How many people total have coronavirus?"
+        },
+        {
+          "text": "How many people in the world have died?"
+        },
+        {
+          "text": "are people infected in my city ?"
+        },
+        {
+          "text": "Are there any cases near me"
+        },
+        {
+          "text": "what is the count of coronavirus infected people?"
+        },
+        {
+          "text": "Does MA have a confirmed COVID case?"
+        },
+        {
+          "text": "Does the US have a confirmed COVID case?"
+        },
+        {
+          "text": "has anyone died of coronavirus in my state?"
+        },
+        {
+          "text": "how many people have contracted the virus in pennysylvania"
+        },
+        {
+          "text": "how many cases are there in Texas?"
+        },
+        {
+          "text": "How many people are sick throughout the world?"
+        },
+        {
+          "text": "How many people are infected with Corona virus currently in texas?"
+        },
+        {
+          "text": "How many people are infected in Illinois?"
+        },
+        {
+          "text": "how many people are infected"
+        },
+        {
+          "text": "how many people are sick in the US?"
+        },
+        {
+          "text": "how many patients are infected with corona virus in collin county"
+        },
+        {
+          "text": "How many folks in Texas are infected?"
+        },
+        {
+          "text": "how many current cases are there in Illinois"
+        },
+        {
+          "text": "How many coronavirus cases are there in my area?"
+        },
+        {
+          "text": "How many cases of COVID-19 are in the US?"
+        }
+      ],
+      "description": "Number of cases nearby."
+    },
+    {
+      "intent": "goodbye",
+      "examples": [
+        {
+          "text": "see you"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "thank you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "greeting",
+      "examples": [
+        {
+          "text": "aloha"
+        },
+        {
+          "text": "buenos dias"
+        },
+        {
+          "text": "yes hello"
+        },
+        {
+          "text": "good evening"
+        },
+        {
+          "text": "namaste"
+        },
+        {
+          "text": "howdy"
+        },
+        {
+          "text": "hi there"
+        },
+        {
+          "text": "hola"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "hey there"
+        },
+        {
+          "text": "heya"
+        },
+        {
+          "text": "hello watson"
+        },
+        {
+          "text": "yes hi"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "bonjour"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "yello"
+        },
+        {
+          "text": "Olla"
+        },
+        {
+          "text": "feeling a bit low"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good afternoon"
+        }
+      ]
+    },
+    {
+      "intent": "GoingOutside",
+      "examples": [
+        {
+          "text": "going outside to purchase some groceries"
+        },
+        {
+          "text": "going outside"
+        },
+        {
+          "text": "going to purchase some milk"
+        },
+        {
+          "text": "I am going to school"
+        },
+        {
+          "text": "I am going outside"
+        },
+        {
+          "text": "going out to buy some goods"
+        }
+      ],
+      "description": "Moving away from home, workspace"
+    },
+    {
+      "intent": "DisinfectingSurfaces",
+      "examples": [
+        {
+          "text": "How do I clean my home to remove virus molecules"
+        },
+        {
+          "text": "What cleaning products should I use to protect against COVID-19?"
+        },
+        {
+          "text": "Do I need to clean with bleach?"
+        },
+        {
+          "text": "Disinfecting surfaces"
+        },
+        {
+          "text": "Where do i need to disinfect?"
+        },
+        {
+          "text": "what products are best at disinfecting?"
+        },
+        {
+          "text": "how should i disinfect my home?"
+        }
+      ],
+      "description": "Disinfection Guidance"
+    },
+    {
+      "intent": "COVID_Treatment_Vaccine",
+      "examples": [
+        {
+          "text": "When can I expect drugs for the virus?"
+        },
+        {
+          "text": "Is the covid vaccine ready?"
+        },
+        {
+          "text": "Is it possible to estimate how long it will take to administer the drug / vaccine to people?"
+        },
+        {
+          "text": "How long will it be until there is a vaccine?"
+        },
+        {
+          "text": "How long does it take to develop a vaccine?"
+        },
+        {
+          "text": "Covid-19 vaccine?"
+        },
+        {
+          "text": "Why isn't there a vaccine yet?"
+        },
+        {
+          "text": "When will covid-19 medicines be ready?"
+        },
+        {
+          "text": "What's the status of a vaccine?"
+        },
+        {
+          "text": "Is there a vaccine?"
+        },
+        {
+          "text": "Is there a vaccine for this"
+        },
+        {
+          "text": "Is there a vaccine for the coronavirus?"
+        },
+        {
+          "text": "is there a vaccine for covid"
+        },
+        {
+          "text": "Is there a vaccine for coronavirus?"
+        },
+        {
+          "text": "Is there a vaccine for corona virus"
+        },
+        {
+          "text": "Is there a magical cure for covid-19?"
+        },
+        {
+          "text": "Is there a cure for covid-19?"
+        },
+        {
+          "text": "Is there a cure for covid 19?"
+        },
+        {
+          "text": "Is there a covid vaccine?"
+        },
+        {
+          "text": "is there a vaccine for Covid-19?"
+        },
+        {
+          "text": "Is there a vaccine for Covid-19"
+        }
+      ],
+      "description": "Questions about vaccination."
+    },
+    {
+      "intent": "COVID_Prevention",
+      "examples": [
+        {
+          "text": "how do I ensure my family is safe?"
+        },
+        {
+          "text": "how can I not get sick"
+        },
+        {
+          "text": "What should I do to avoid getting sick?"
+        },
+        {
+          "text": "What rules should I follow to prevent covid illness?"
+        },
+        {
+          "text": "what should i do to contain the spread of the virus"
+        },
+        {
+          "text": "What should I do to stay safe?"
+        },
+        {
+          "text": "What will help me prevent covid infection?"
+        },
+        {
+          "text": "What’s the best way to prevent coronavirus?"
+        },
+        {
+          "text": "what can i do to stay safe"
+        },
+        {
+          "text": "How can I avoid getting sick?"
+        },
+        {
+          "text": "Does the sun kill coronavirus?"
+        },
+        {
+          "text": "Does eating garlic help?"
+        },
+        {
+          "text": "Can I protect myself by drinking alcohol"
+        },
+        {
+          "text": "precautionary measures"
+        },
+        {
+          "text": "Is it even possible to avoid the virus?"
+        },
+        {
+          "text": "How to Prevent the Spread of the Virus"
+        },
+        {
+          "text": "How to prevent covid infection?"
+        },
+        {
+          "text": "How to avoid catching covid-19."
+        },
+        {
+          "text": "prevent the spread of the virus"
+        },
+        {
+          "text": "How can I protect my family from the spread of coronavirus?"
+        },
+        {
+          "text": "How do I avoid Coronavirus"
+        },
+        {
+          "text": "How do I avoid covid-19?"
+        },
+        {
+          "text": "how can i prevent coronavirus"
+        },
+        {
+          "text": "What is the most effective prevention?"
+        },
+        {
+          "text": "what is the best way to prevent coronavirus"
+        },
+        {
+          "text": "What is the best prevention?"
+        },
+        {
+          "text": "What is effective prevention against covid?"
+        },
+        {
+          "text": "what can i do to prevent getting coronavirus?"
+        },
+        {
+          "text": "What is the risk of my child becoming sick with COVID-19?"
+        },
+        {
+          "text": "how to I prevent myself from getting sick?"
+        },
+        {
+          "text": "How do you protect yourself?"
+        },
+        {
+          "text": "how do I stay safe"
+        },
+        {
+          "text": "How do I protect myself?"
+        },
+        {
+          "text": "how do i prevent catching the disease"
+        },
+        {
+          "text": "what can i do to prevent COIVD?"
+        },
+        {
+          "text": "What can I do to not get sick?"
+        },
+        {
+          "text": "what can I do to avoid getting sick?"
+        },
+        {
+          "text": "What are some good tips for prevention?"
+        },
+        {
+          "text": "Should I avoid people?"
+        }
+      ],
+      "description": "Ways to prevent Covid-19."
+    },
+    {
+      "intent": "schoolclosing",
+      "examples": [
+        {
+          "text": "school closing"
+        },
+        {
+          "text": "Will schools be dismissed if there is an outbreak in my community?"
+        },
+        {
+          "text": "why are schools closing?"
+        },
+        {
+          "text": "how do I know if my school is closing?"
+        },
+        {
+          "text": "who gets to decide if the school will close?"
+        }
+      ],
+      "description": "School closings information"
+    },
+    {
+      "intent": "COVID_Govt_Emergency",
+      "examples": [
+        {
+          "text": "Is the government legally allowed to close shops and restaurants?"
+        },
+        {
+          "text": "What is a national emergency?"
+        },
+        {
+          "text": "What has our government already done to reduce the risk of spreading the disease"
+        },
+        {
+          "text": "What does a state of emergency mean?"
+        },
+        {
+          "text": "What are the crisis measures currently in place?"
+        },
+        {
+          "text": "A national emergency was declared in the United States. What does this mean?"
+        },
+        {
+          "text": "Can the government close public places?"
+        },
+        {
+          "text": "How does the state of emergency affect me?"
+        },
+        {
+          "text": "How is the United States prepared for the spread of covid 19?"
+        },
+        {
+          "text": "What measures is the US taking against covid-19?"
+        },
+        {
+          "text": "How is the US government addressing the spread of covid-19?"
+        },
+        {
+          "text": "What measurements is the government taking?"
+        },
+        {
+          "text": "What is the Government doing about Covid?"
+        },
+        {
+          "text": "When will the national emergency end?"
+        },
+        {
+          "text": "How long will the state of emergency last?"
+        },
+        {
+          "text": "How long has the national emergency been in place?"
+        },
+        {
+          "text": "Tell me about the Coronavirus response"
+        },
+        {
+          "text": "Is there a nationwide curfew?"
+        },
+        {
+          "text": "Is the US well prepared for covid 19"
+        },
+        {
+          "text": "is the government ready for covid"
+        }
+      ],
+      "description": "Government readiness questions."
+    },
+    {
+      "intent": "Symptomsinchildren",
+      "examples": [
+        {
+          "text": "do children react differently to the virus than adults do?"
+        },
+        {
+          "text": "Symptoms in children"
+        },
+        {
+          "text": "Are the symptoms of COVID-19 different in children than in adults?"
+        },
+        {
+          "text": "what are the symptoms in children?"
+        },
+        {
+          "text": "do kids get different symptoms?"
+        }
+      ],
+      "description": "Signs and symptoms in children and differences from adults"
+    },
+    {
+      "intent": "DataSource",
+      "examples": [
+        {
+          "text": "Where did you learn this?"
+        },
+        {
+          "text": "Is this true?"
+        },
+        {
+          "text": "Where do you get your information?"
+        },
+        {
+          "text": "How do you know this?"
+        },
+        {
+          "text": "Is this information accurate?"
+        },
+        {
+          "text": "Are you sure?"
+        }
+      ],
+      "description": "Information on where this bot sourced it's data"
+    },
+    {
+      "intent": "COVID_See_Doctor",
+      "examples": [
+        {
+          "text": "Should I see a doctor if I am showing the symptoms?"
+        },
+        {
+          "text": "Should I see a doctor if I am not feeling well?"
+        },
+        {
+          "text": "Should I make an appointment with my Dr?"
+        },
+        {
+          "text": "Should I go to the hospital"
+        },
+        {
+          "text": "I'm coughing, should I go to the doctor?"
+        },
+        {
+          "text": "I suspect I have the virus who can I call?"
+        },
+        {
+          "text": "i have a fever. should i go to the hospital?"
+        },
+        {
+          "text": "Where should I go if I suspect I have coronavirus?"
+        },
+        {
+          "text": "Who should I call if I have symptoms?"
+        },
+        {
+          "text": "I am coughing.  Should I call my doctor?"
+        },
+        {
+          "text": "I have a cough but am breathing fine, should I go to the hospital or wait?"
+        },
+        {
+          "text": "When should I go to the hospital?"
+        },
+        {
+          "text": "can I go to the hospital?"
+        },
+        {
+          "text": "If I think I have COVID-19, should I see my Dr?"
+        },
+        {
+          "text": "should i go to the ER if i have a cough"
+        },
+        {
+          "text": "should i go to the doctor now"
+        },
+        {
+          "text": "Do I have to go to the hospital if I get COVID"
+        },
+        {
+          "text": "how do i know whether to go to the doctor?"
+        },
+        {
+          "text": "When should I go to the doctor?"
+        },
+        {
+          "text": "when should I go to a doctor?"
+        },
+        {
+          "text": "when should I call a doctor"
+        },
+        {
+          "text": "When do i call a doctor"
+        },
+        {
+          "text": "when did I need to call the doctor?"
+        }
+      ],
+      "description": "Asking if it is possible to see a doctor."
+    },
+    {
+      "intent": "COVID_Transmission",
+      "examples": [
+        {
+          "text": "how does covid spread"
+        },
+        {
+          "text": "spreading covid to others"
+        },
+        {
+          "text": "When does a person become contagious?"
+        },
+        {
+          "text": "does the virus spread thru surfaces"
+        },
+        {
+          "text": "how can covid be transmitted"
+        },
+        {
+          "text": "How can I get infected?"
+        },
+        {
+          "text": "Is it possible to get infected from the infected person the next day?"
+        },
+        {
+          "text": "is it contagious"
+        },
+        {
+          "text": "is covid19 contagious?"
+        },
+        {
+          "text": "Is Coronavirus contagious?"
+        },
+        {
+          "text": "is covid-19 contagious?"
+        },
+        {
+          "text": "is covid transmissible from animals?"
+        },
+        {
+          "text": "How contagious is COVID-19?"
+        },
+        {
+          "text": "How would I get covid?"
+        },
+        {
+          "text": "How would I catch it?"
+        },
+        {
+          "text": "how many people are infected in the United States"
+        },
+        {
+          "text": "How is COVID-19 spread?"
+        },
+        {
+          "text": "How is covid transmitted?"
+        },
+        {
+          "text": "how does the virus spread"
+        },
+        {
+          "text": "How does the infection spread"
+        },
+        {
+          "text": "how does covid-19 spread to others"
+        },
+        {
+          "text": "how does covid-19 spread"
+        },
+        {
+          "text": "How does covid spread?"
+        },
+        {
+          "text": "number of infected"
+        },
+        {
+          "text": "how does coronavirus spread?"
+        },
+        {
+          "text": "How do I catch the virus?"
+        }
+      ],
+      "description": "How Covid-19 is transmitted."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "yep",
+            "you betcha",
+            "you bet",
+            "yes",
+            "yeah",
+            "why not",
+            "sure",
+            "please",
+            "ok",
+            "let's do it",
+            "go for it",
+            "definitely"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "not now",
+            "not at this time",
+            "nope",
+            "i think not",
+            "dont think so",
+            "don't think so",
+            "definitely not"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "goingout",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "outside",
+          "synonyms": [
+            "away",
+            "somewhere",
+            "go",
+            "going",
+            "goes",
+            "leave",
+            "leaving"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "phone",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "US Phone pattern",
+          "patterns": [
+            "(\\d{3})-(\\d{3})-(\\d{4})"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "coronavirus",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "coronavirus",
+          "synonyms": [
+            "corona",
+            "virus check",
+            "virus",
+            "COVID-19",
+            "COVID",
+            "coronavirus",
+            "corona-virus",
+            "carona-virus",
+            "Carona",
+            "Korona",
+            "Korona-virus",
+            "COVID19"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "location",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Tamil Nadu",
+          "synonyms": [
+            "Tamil Nadu"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Kasaragod",
+          "synonyms": [
+            "Kasaragod"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "landmark",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "grand central",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "empire state building",
+          "synonyms": [
+            "emprire state",
+            "empire state"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "times square",
+          "synonyms": [
+            "times sqaure",
+            "time square",
+            "time sqaure"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-location",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "school_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "preschool",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "high school",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "grade school",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "college",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "middle school",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "zip_code",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "@sys-number",
+          "patterns": [
+            "(\\b|\\s)\\d{5}(\\b|\\s)"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-person",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/nandukuttan_nandumpilicode%40ieee.org/default/covid-19%20live%20status.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I could not find any information on that."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1585096079466",
+      "conditions": "anything_else",
+      "dialog_node": "response_3_1585096899249",
+      "previous_sibling": "response_9_1585096897994"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1585096079466",
+      "variable": "$location",
+      "dialog_node": "slot_9_1585096776672",
+      "previous_sibling": "response_3_1585096899249"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are the stats for <?$location?> "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "$location_stats.result"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1585096079466",
+      "conditions": "$location_stats",
+      "dialog_node": "response_9_1585096897994"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This is all the confirmed cases I have found"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "$summary.result"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Would you like the stats of a specific location?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1585093908809",
+      "conditions": "$summary",
+      "dialog_node": "response_1_1585095663277",
+      "previous_sibling": "node_4_1585096079466"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I could not find any thing "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1585093908809",
+      "conditions": "anything_else",
+      "dialog_node": "response_7_1585095664425",
+      "previous_sibling": "response_1_1585095663277"
+    },
+    {
+      "type": "frame",
+      "title": "Location Info",
+      "parent": "node_3_1585093908809",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "type": "api",
+            "location": "$location"
+          },
+          "result_variable": "location_stats"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@reply:yes",
+      "dialog_node": "node_4_1585096079466",
+      "previous_sibling": "slot_8_1585096407905"
+    },
+    {
+      "type": "slot",
+      "parent": "node_3_1585093908809",
+      "variable": "$location",
+      "dialog_node": "slot_8_1585096407905"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Enter the district name"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_8_1590179432770",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1590179432779",
+      "previous_sibling": "handler_6_1590179432779"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1590179432770",
+      "context": {
+        "location_2": "@sys-location.literal"
+      },
+      "conditions": "@sys-location.literal",
+      "event_name": "input",
+      "dialog_node": "handler_6_1590179432779"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$webhook_result_1.result"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590176654622",
+      "context": {
+        "village": "@sys-location.literal"
+      },
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_10_1590176670914",
+      "previous_sibling": "slot_8_1590179432770"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "clear the field and try again"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1590176654622",
+      "conditions": "anything_else",
+      "dialog_node": "response_8_1590176673319",
+      "previous_sibling": "response_10_1590176670914"
+    },
+    {
+      "type": "slot",
+      "parent": "node_9_1590176654622",
+      "variable": "$location_2",
+      "dialog_node": "slot_8_1590179432770",
+      "previous_sibling": "slot_9_1590177876539"
+    },
+    {
+      "type": "slot",
+      "parent": "node_9_1590176654622",
+      "variable": "$location",
+      "dialog_node": "slot_9_1590177876539"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "video": {},
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, I’m the COVID Crisis Communication Bot ready to answer your questions about COVID-19. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ],
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "parent": "node_11748",
+      "context": {},
+      "disabled": true,
+      "conditions": "now().after('04:00:00') && now().before('11:59:59')",
+      "dialog_node": "response_3_1589390516776"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "What location (Country/Country Code/US State) would you like the stats for?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1585096776672",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1585096776761",
+      "previous_sibling": "handler_2_1585096776761"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1585096776672",
+      "context": {
+        "location": "@sys-location"
+      },
+      "conditions": "@sys-location",
+      "event_name": "input",
+      "dialog_node": "handler_2_1585096776761"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Enter the state name"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1590177876539",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1590177876669",
+      "previous_sibling": "handler_9_1590177876669"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1590177876539",
+      "context": {
+        "location": "@sys-location.literal"
+      },
+      "conditions": "@sys-location.literal",
+      "event_name": "input",
+      "dialog_node": "handler_9_1590177876669"
+    },
+    {
+      "type": "standard",
+      "title": "How Many Cases",
+      "parent": "node_4_1585096044203",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "": ""
+          },
+          "result_variable": "summary"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#How_many_cases",
+      "dialog_node": "node_3_1585093908809"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Would you like data for specific location?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_8_1585096407905",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1585096407991",
+      "previous_sibling": "handler_3_1585096407991"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1585096407905",
+      "context": {
+        "location": "@sys-location"
+      },
+      "conditions": "@sys-location",
+      "event_name": "input",
+      "dialog_node": "handler_3_1585096407991"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I don't know the answer to that yet. But I am learning new things all the time."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_11749",
+      "disabled": true,
+      "conditions": "anything_else",
+      "dialog_node": "response_10_1585074744879",
+      "previous_sibling": "response_10_1585074743918"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I don't know the answer to that yet.  $webhook_result_2.result"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "parent": "node_11749",
+      "context": {},
+      "disabled": true,
+      "conditions": "$webhook_result_2",
+      "dialog_node": "response_10_1585074743918"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "output": {
+        "video": {},
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello , I’m the COVID Crisis Communication Bot. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ],
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#greeting && intents[0].confidence > 0.95",
+      "dialog_node": "node_11748",
+      "previous_sibling": "node_7_1590139535918"
+    },
+    {
+      "type": "standard",
+      "title": "Student and School Meals",
+      "output": {
+        "text": {
+          "values": [
+            "Check with your school on plans to continue meal services during the school dismissal. Many schools are keeping school facilities open to allow families to pick up meals or are providing grab-and-go meals at a central location."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#MealsForStudents && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11787",
+      "previous_sibling": "node_11786"
+    },
+    {
+      "type": "standard",
+      "title": "node_11750",
+      "output": {
+        "text": {
+          "values": [
+            "Did you mean:",
+            "You seem to be asking about: ",
+            "I think you were asking about:"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "buttons": [
+          {
+            "id": "<? intents.?[intent != 'greeting' && intent != 'goodbyes'  && intent != 'nonsense' && intent != 'no' && intent != 'yes' && intent != 'weather'][0].intent ?>"
+          },
+          {
+            "id": "<? intents.?[intent != 'greeting' && intent != 'goodbyes'  && intent != 'nonsense' && intent != 'no' && intent != 'yes' && intent != 'weather'][1].intent ?>"
+          },
+          {
+            "id": "<? intents.?[intent != 'greeting' && intent != 'goodbyes'  && intent != 'nonsense' && intent != 'no' && intent != 'yes' && intent != 'weather'][2].intent ?>"
+          }
+        ],
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "intents.size() > 0 && (intents[0].confidence < $low_confidence && intents[0].confidence > $out_of_bounds)",
+      "dialog_node": "node_11750",
+      "previous_sibling": "node_8_1585238958758"
+    },
+    {
+      "type": "standard",
+      "title": "How does it Spread",
+      "output": {
+        "text": {
+          "values": [
+            "This virus was first detected in Wuhan City, Hubei Province, China. The first infections were linked to a live animal market, but the virus is now spreading from person-to-person. It’s important to note that person-to-person spread can happen on a continuum. Some viruses are highly contagious (like measles), while other viruses are less so. The virus that causes COVID-19 seems to be spreading easily and sustainably in the community (“community spread”) in some affected geographic areas. Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#HowDoesItSpread && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11753",
+      "previous_sibling": "node_11752"
+    },
+    {
+      "type": "standard",
+      "title": "Preparing and Calming Children",
+      "output": {
+        "text": {
+          "values": [
+            "Outbreaks can be stressful for adults and children. Talk with your children about the outbreak, try to stay calm, and reassure them that they are safe. If appropriate, explain to them that most illness from COVID-19 seems to be mild. Children respond differently to stressful situations than adults."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#PreparingChildren && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11773",
+      "previous_sibling": "node_11772"
+    },
+    {
+      "type": "standard",
+      "title": "Family Preparation",
+      "output": {
+        "text": {
+          "values": [
+            "Create a household plan of action to help protect your health and the health of those you care about in the event of an outbreak of COVID-19 in your community: Talk with the people who need to be included in your plan, and discuss what to do if a COVID-19 outbreak occurs in your community Plan ways to care for those who might be at greater risk for serious complications, particularly older adults and those with severe chronic medical conditions like heart, lung or kidney disease. Make sure they have access to several weeks of medications and supplies in case you need to stay home for prolonged periods of time. Get to know your neighbors and find out if your neighborhood has a website or social media page to stay connected. Create a list of local organizations that you and your household can contact in the event you need access to information, healthcare services, support, and resources. Create an emergency contact list of family, friends, neighbors, carpool drivers, health care providers, teachers, employers, the local public health department, and other community resources."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#PrepareFamily && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11768",
+      "previous_sibling": "node_11767"
+    },
+    {
+      "type": "standard",
+      "title": "Child socialization",
+      "output": {
+        "text": {
+          "values": [
+            "The key to slowing the spread of COVID-19 is to limit social interactions as much as possible. Parents should minimize play dates, and if held, parents should keep the groups small. Advise older children to hang out in a small group and to meet up outside rather than inside. It’s easier to keep and maintain space between others in outdoor settings, like parks. If you have small meetups, consider hanging out with another family or friend who is also taking extra measures to put distance between themselves and others (i.e. social distancing). Make sure children practice everyday preventive behaviors , such as cleaning and then disinfecting frequently touched surfaces. Remember, if children meet outside of school in bigger groups, it can put everyone at risk. This includes spring break and other group travel. Parents should help their older children revise spring break plans that included non-essential travel to crowded areas. Information about COVID-19 in children is somewhat limited, but current data suggest children with COVID-19 may show only mild symptoms. However, they can still pass this virus onto others who may be at higher risk, including older adults and people who have serious chronic medical conditions"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#ChildrenSocializing && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11785",
+      "previous_sibling": "node_11784"
+    },
+    {
+      "type": "standard",
+      "title": "Info about Stigmatized Groups",
+      "output": {
+        "text": {
+          "values": [
+            "People in the U.S. may be worried or anxious about friends and relatives who are living in or visiting areas where COVID-19 is spreading. Some people are worried about the disease. Fear and anxiety can lead to social stigma, for example, towards Chinese or other Asian Americans or people who were in quarantine. Stigma is discrimination against an identifiable group of people, a place, or a nation. Stigma is associated with a lack of knowledge about how COVID-19 spreads, a need to blame someone, fears about disease and death, and gossip that spreads rumors and myths. Stigma hurts everyone by creating more fear or anger towards ordinary people instead of the disease that is causing the problem."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#Stigmatizedgroups && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11779",
+      "previous_sibling": "node_11778"
+    },
+    {
+      "type": "standard",
+      "title": "Data Disclaimer",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This bot is populated with data sourced from the following resources:\n\nMost static responses provide information found on the CDC's Covid FAQ Page: https://www.cdc.gov/coronavirus/2019-ncov/faq.html\n\nDynamic infection and death counts are sourced from Johns Hopkins University via the following API: https://www.covid19api.com/\n\nDynamic news stories are sourced from Watson Discovery's news feed. Additional information on that service can be found here: https://www.ibm.com/watson/services/discovery-news/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "(#DataSource && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_8_1585238958758",
+      "previous_sibling": "node_11787"
+    },
+    {
+      "type": "standard",
+      "title": "Health Dept Recommended Actions",
+      "output": {
+        "text": {
+          "values": [
+            "For recommendations and guidance on persons under investigation; infection control, including personal protective equipment guidance; home care and isolation; and case investigation, ask this chatbot about Information for Healthcare Professionals . For information on specimen collection and shipment, ask this chatbot about Information for Laboratories. For information for public health professional on COVID-19, ask this chatbot about Information for Public Health Professionals."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#HealthDeptRecommendedActions && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11780",
+      "previous_sibling": "node_11779"
+    },
+    {
+      "type": "standard",
+      "title": "Naming of Virus",
+      "output": {
+        "text": {
+          "values": [
+            "On February 11, 2020 the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak, first identified in Wuhan China. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, ‘CO’ stands for ‘corona,’ ‘VI’ for ‘virus,’ and ‘D’ for disease. Formerly, this disease was referred to as “2019 novel coronavirus” or “2019-nCoV”. There are many types of human coronaviruses including some that commonly cause mild upper-respiratory tract illnesses. COVID-19 is a new disease, caused be a novel (or new) coronavirus that has not previously been seen in humans. The name of this disease was selected following the World Health Organization (WHO) best practice for naming of new human infectious diseases."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#Whythename && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11752",
+      "previous_sibling": "node_11751"
+    },
+    {
+      "type": "standard",
+      "title": "Risk to Pets",
+      "output": {
+        "text": {
+          "values": [
+            "While this virus seems to have emerged from an animal source, it is now spreading from person-to-person. There is no reason to think that any animals including pets in the United States might be a source of infection with this new coronavirus. To date, CDC has not received any reports of pets or other animals becoming sick with COVID-19. At this time, there is no evidence that companion animals including pets can spread COVID-19. However, since animals can spread other diseases to people, it’s always a good idea to wash your hands after being around animals."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#RiskToPets && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11783",
+      "previous_sibling": "node_11782"
+    },
+    {
+      "type": "standard",
+      "title": "Person to Person Spread",
+      "output": {
+        "text": {
+          "values": [
+            "The virus that causes COVID-19 is spreading from person-to-person . Someone who is actively sick with COVID-19 can spread the illness to others. That is why CDC recommends that these patients be isolated either in the hospital or at home (depending on how sick they are) until they are better and no longer pose a risk of infecting others. How long someone is actively sick can vary so the decision on when to release someone from isolation is made on a case-by-case basis in consultation with doctors, infection prevention and control experts, and public health officials and involves considering specifics of each situation including disease severity, illness signs and symptoms, and results of laboratory testing for that patient. Current CDC guidance for when it is OK to release someone from isolation is made on a case by case basis and includes meeting all of the following requirements: The patient is free from fever without the use of fever-reducing medications. The patient is no longer showing symptoms, including cough. The patient has tested negative on at least two consecutive respiratory specimens collected at least 24 hours apart. Someone who has been released from isolation is not considered to pose a risk of infection to others."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#PersonToPerson && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11755",
+      "previous_sibling": "node_11754"
+    },
+    {
+      "type": "standard",
+      "title": "Handwashing tips and Guidance",
+      "output": {
+        "text": {
+          "values": [
+            "Hand washing is one of the best ways to protect yourself and your family from getting sick. Wash your hands often with soap and water for at least 20 seconds, especially after blowing your nose, coughing, or sneezing; going to the bathroom; and before eating or preparing food. If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#HandwashingTips && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11771",
+      "previous_sibling": "node_11770"
+    },
+    {
+      "type": "standard",
+      "title": "Risk to Children",
+      "output": {
+        "text": {
+          "values": [
+            "Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. You can learn more about who is most at risk for health problems if they have COVID-19 infection on CDC’s current Risk Assessment page."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#RiskToChildren && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11764",
+      "previous_sibling": "node_11763"
+    },
+    {
+      "type": "standard",
+      "title": "Products and Packages from China",
+      "output": {
+        "text": {
+          "values": [
+            "There is still a lot that is unknown about the newly emerged COVID-19 and how it spreads. Two other coronaviruses have emerged previously to cause severe illness in people (MERS-CoV and SARS-CoV). The virus that causes COVID-19 is more genetically related to SARS-CoV than MERS-CoV, but both are betacoronaviruses with their origins in bats. While we don’t know for sure that this virus will behave the same way as SARS-CoV and MERS-CoV, we can use the information gained from both of these earlier coronaviruses to guide us. In general, because of poor survivability of these coronaviruses on surfaces, there is likely very low risk of spread from products or packaging that are shipped over a period of days or weeks at ambient temperatures. Coronaviruses are generally thought to be spread most often by respiratory droplets. Currently there is no evidence to support transmission of COVID-19 associated with imported goods and there have not been any cases of COVID-19 in the United States associated with imported goods. Information will be provided on the Coronavirus Disease 2019 (COVID-19) website as it becomes available."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#ProductsFromChina && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11763",
+      "previous_sibling": "node_11762"
+    },
+    {
+      "type": "standard",
+      "title": "Going outside",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Dont't forget to take your mask, sanitizer and keep social distancing"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {},
+      "conditions": "#GoingOutside",
+      "dialog_node": "node_7_1590139535918",
+      "previous_sibling": "node_9_1590176654622"
+    },
+    {
+      "type": "standard",
+      "title": "Infected Family Member",
+      "output": {
+        "text": {
+          "values": [
+            "Most people who get COVID-19 will be able to recover at home. CDC has directions for people who are recovering at home and their caregivers, including: Stay home when you are sick, except to get medical care. If you develop emergency warning signs for COVID-19 get medical attention immediately . Emergency warning signs include: Trouble breathing, Persistent pain or pressure in the chest, New confusion or inability to arouse, Bluish lips or face.  This list is not all inclusive. Please consult your medical provider for any other symptoms that are severe or concerning. Use a separate room and bathroom for sick household members (if possible). Clean hands regularly by hand washing with soap and water or using an alcohol-based hand sanitizer with at least 60% alcohol. Provide your sick household member with clean disposable face masks to wear at home, if available, to help prevent spreading COVID-19 to others. Clean the sick room and bathroom , as needed, to avoid unnecessary contact with the sick person. Avoid sharing personal items like utensils, food, and drinks."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#InfectedFamilyMember && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11770",
+      "previous_sibling": "node_11769"
+    },
+    {
+      "type": "standard",
+      "title": "Should I wear face masks?",
+      "output": {
+        "text": {
+          "values": [
+            "CDC does not recommend that people who are well wear a facemask to protect themselves from respiratory illnesses, including COVID-19. You should only wear a mask if a healthcare professional recommends it. A facemask should be used by people who have COVID-19 and are showing symptoms. This is to protect others from the risk of getting infected. The use of facemasks also is crucial for health workers and other people who are taking care of someone infected with COVID-19 in close settings (at home or in a health care facility)."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#Wearingfacemasks && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11762",
+      "previous_sibling": "node_11761"
+    },
+    {
+      "type": "standard",
+      "title": "Goodbye",
+      "output": {
+        "text": {
+          "values": [
+            "Farewell!",
+            "Take Care",
+            "Stay Safe Out There"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "#goodbye && intents[0].confidence > 0.95",
+      "dialog_node": "node_11791",
+      "previous_sibling": "node_11748"
+    },
+    {
+      "type": "standard",
+      "title": "Advice on Home Schooling",
+      "output": {
+        "text": {
+          "values": [
+            "Stay in touch with your child’s school. Many schools are adapting in-person lessons to online or virtual learning. Review assignments from the school, and help your child establish a reasonable pace for completing the work. You may need to assist your child with turning on devices, reading instructions, and typing answers. Communicate challenges to your school. If you face technology or connectivity issues, or if your child is having a hard time completing assignments, let the school know. Create a schedule and routine for learning at home, but remain flexible. Have consistent bedtimes and get up at the same time, Monday through Friday. Structure the day for learning, free time, healthy meals and snacks, and physical activity. Allow flexibility in the schedule—it’s okay to adapt based on your day. Consider the needs and adjustment required for your child’s age group. The transition to being at home will be different for preschoolers, K-5, middle school students, and high school students. Talk to your child about expectations and how they are adjusting to being at home versus at school. Consider ways your child can stay connected with their friends without spending time in person. Look for ways to make learning fun. Have hands-on activities, like puzzles, painting, drawing, and making things. Independent play can also be used in place of structured learning. Encourage children to build a fort from sheets or practice counting by stacking blocks. Practice handwriting and grammar by writing letters to family members. This is a great way to connect and limit face-to-face contact. Start a journal with your child to document this time and discuss the shared experience. Use audio books or see if your local library is hosting virtual or live-streamed reading events."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#Schoolfromhome && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11786",
+      "previous_sibling": "node_11785"
+    },
+    {
+      "type": "standard",
+      "title": "Guidance on going in to work",
+      "output": {
+        "text": {
+          "values": [
+            "Follow the advice of your local health officials. Stay home if you can. Talk to your employer to discuss working from home, taking leave if you or someone in your household gets sick with COVID-19 symptoms , or if your child’s school is dismissed temporarily. Employers should be aware that more employees may need to stay at home to care for sick children or other sick family members than is usual in case of a community outbreak."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#ReportingToWork && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11775",
+      "previous_sibling": "node_11774"
+    },
+    {
+      "type": "standard",
+      "title": "Negative Test Result Considerations",
+      "output": {
+        "text": {
+          "values": [
+            "Using the CDC-developed diagnostic test, a negative result means that the virus that causes COVID-19 was not found in the person’s sample. In the early stages of infection, it is possible the virus will not be detected. For COVID-19, a negative test result for a sample collected while a person has symptoms likely means that the COVID-19 virus is not causing their current illness."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#NegativeTestResults && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11778",
+      "previous_sibling": "node_11777"
+    },
+    {
+      "type": "standard",
+      "title": "Higher Risk Populations",
+      "output": {
+        "text": {
+          "values": [
+            "Older adults and people of any age who have serious underlying medical conditions may be at higher risk for more serious complications from COVID-19. Based upon available information to date, those most at risk include People 65 years and older, People who live in a nursing home or long-term care facility, People of any age with the following underlying medical conditions, particularly those that are not well controlled, Chronic lung disease or asthma, Congestive heart failure or coronary artery disease, Diabetes, Neurological conditions that weaken ability to cough, Weakened immune system, Chemotherapy or radiation for cancer (currently or in recent past), Sickle cell anemia, Chronic kidney disease requiring dialysis, Cirrhosis of the liver, Lack of spleen or a spleen that doesn’t function correctly, Extreme obesity (body mass index [BMI] > 40), People who are pregnant."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#HigherRiskPopulations && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11761",
+      "previous_sibling": "node_11759"
+    },
+    {
+      "type": "standard",
+      "title": "Symptoms of COVID19",
+      "output": {
+        "text": {
+          "values": [
+            "Current symptoms reported for patients with COVID-19 have included mild to severe respiratory illness with fever , cough, and difficulty breathing."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#Symptoms && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11776",
+      "previous_sibling": "node_11775"
+    },
+    {
+      "type": "standard",
+      "title": "Warmer Weather Mitigation",
+      "output": {
+        "text": {
+          "values": [
+            "It is not yet known whether weather and temperature impact the spread of COVID-19. Some other viruses, like the common cold and flu, spread more during cold weather months but that does not mean it is impossible to become sick with these viruses during other months. At this time, it is not known whether the spread of COVID-19 will decrease when weather becomes warmer. There is much more to learn about the transmissibility, severity, and other features associated with COVID-19 and investigations are ongoing."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#warmerweather && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11758",
+      "previous_sibling": "node_11757"
+    },
+    {
+      "type": "standard",
+      "title": "Where did it originate?",
+      "output": {
+        "text": {
+          "values": [
+            "Coronaviruses are a large family of viruses. Some cause illness in people, and others, such as canine and feline coronaviruses, only infect animals. Rarely, animal coronaviruses that infect animals have emerged to infect people and can spread between people. This is suspected to have occurred for the virus that causes COVID-19. Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS) are two other examples of coronaviruses that originated from animals and then spread to people. More information about the source and spread of COVID-19 ask this chatbot how does the virus spread."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#Wherediditstart && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11754",
+      "previous_sibling": "node_11753"
+    },
+    {
+      "type": "standard",
+      "title": "Disinfecting Surfaces",
+      "output": {
+        "text": {
+          "values": [
+            "Clean and disinfect frequently touched surfaces such as tables, doorknobs, light switches, countertops, handles, desks, phones, keyboards, toilets, faucets, and sinks. If surfaces are dirty, clean them using detergent or soap and water prior to disinfection. To disinfect, most common EPA-registered household disinfectants will work."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#DisinfectingSurfaces && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11772",
+      "previous_sibling": "node_11771"
+    },
+    {
+      "type": "standard",
+      "title": "School Closing Information",
+      "output": {
+        "text": {
+          "values": [
+            "Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals. Read or watch local media sources that report school dismissals or and watch for communication from your child’s school. If schools are dismissed temporarily, discourage students and staff from gathering or socializing anywhere, like at a friend’s house, a favorite restaurant, or the local shopping mall."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#schoolclosing && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11774",
+      "previous_sibling": "node_11773"
+    },
+    {
+      "type": "folder",
+      "title": "api",
+      "dialog_node": "node_4_1585096044203",
+      "previous_sibling": "node_11791"
+    },
+    {
+      "type": "standard",
+      "title": "Animal Contact",
+      "output": {
+        "text": {
+          "values": [
+            "You should restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people sick with COVID-19 limit contact with animals until more information is known about the virus. When possible, have another member of your household care for your animals while you are sick. If you are sick with COVID-19, avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food. If you must care for your pet or be around animals while you are sick, wash your hands before and after you interact with pets and wear a face mask."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#AnimalContact && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11784",
+      "previous_sibling": "node_11783"
+    },
+    {
+      "type": "standard",
+      "title": "What is Covid19?",
+      "output": {
+        "text": {
+          "values": [
+            "A novel coronavirus is a new coronavirus that has not been previously identified. The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold. A diagnosis with coronavirus 229E, NL63, OC43, or HKU1 is not the same as a COVID-19 diagnosis. Patients with COVID-19 will be evaluated and cared for differently than patients with common coronavirus diagnosis."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "#COVID_Description",
+      "dialog_node": "node_11751",
+      "previous_sibling": "node_4_1585096044203"
+    },
+    {
+      "type": "standard",
+      "title": "node_11749",
+      "output": {
+        "video": {},
+        "generic": [
+          {
+            "time": 500,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ],
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "metadata": {
+        "callout": {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input.text?>"
+          },
+          "result_variable": "webhook_result_2"
+        },
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_11749",
+      "previous_sibling": "node_11750"
+    },
+    {
+      "type": "standard",
+      "title": "Can it spread via food?",
+      "output": {
+        "text": {
+          "values": [
+            "Coronaviruses are generally thought to be spread from person-to-person through respiratory droplets. Currently there is no evidence to support transmission of COVID-19 associated with food. Before preparing or eating food it is important to always wash your hands with soap and water for 20 seconds for general food safety. Throughout the day wash your hands after blowing your nose, coughing or sneezing, or going to the bathroom. In general, because of poor survivability of these coronaviruses on surfaces, there is likely very low risk of spread from food products or packaging that are shipped over a period of days or weeks at ambient, refrigerated, or frozen temperatures.  "
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#spreadviafood && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11757",
+      "previous_sibling": "node_11756"
+    },
+    {
+      "type": "standard",
+      "title": "Reduce Family Risk",
+      "output": {
+        "text": {
+          "values": [
+            "Practice everyday preventive actions to help reduce your risk of getting sick and remind everyone in your home to do the same. These actions are especially important for older adults and people who have severe chronic medical conditions: Avoid close contact with people who are sick. Cover your coughs and sneezes with a tissue and throw the tissue in the trash. Wash your hands often with soap and water for at least 20 seconds, especially after blowing your nose, coughing, or sneezing; going to the bathroom; and before eating or preparing food. If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol. Always wash hands with soap and water if hands are visibly dirty. Clean and disinfect frequently touched surfaces and objects (e.g., tables, countertops, light switches, doorknobs, and cabinet handles)."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#ReduceFamilyRisk && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11769",
+      "previous_sibling": "node_11768"
+    },
+    {
+      "type": "standard",
+      "title": "What is Quarantine",
+      "output": {
+        "text": {
+          "values": [
+            "Quarantine means separating a person or group of people who have been exposed to a contagious disease but have not developed illness (symptoms) from others who have not been exposed, in order to prevent the possible spread of that disease. Quarantine is usually established for the incubation period of the communicable disease, which is the span of time during which people have developed illness after exposure. For COVID-19, the period of quarantine is 14 days from the last date of exposure, because 14 days is the longest incubation period seen for similar coronaviruses. Someone who has been released from COVID-19 quarantine is not considered a risk for spreading the virus to others because they have not developed illness during the incubation period."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#spreadinquarantine && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11756",
+      "previous_sibling": "node_11755"
+    },
+    {
+      "type": "standard",
+      "title": "What symptoms are shown in Children?",
+      "output": {
+        "text": {
+          "values": [
+            "The symptoms of COVID-19 are similar in children and adults. However, children with confirmed COVID-19 have generally presented with mild symptoms. Reported symptoms in children include cold-like symptoms, such as fever, runny nose, and cough. Vomiting and diarrhea have also been reported. It’s not known yet whether some children may be at higher risk for severe illness, for example, children with underlying medical conditions and special healthcare needs. There is much more to be learned about how the disease impacts children."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#Symptomsinchildren && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11766",
+      "previous_sibling": "node_11765"
+    },
+    {
+      "type": "standard",
+      "title": "CDC Guidance and Response",
+      "output": {
+        "text": {
+          "values": [
+            "This is an emerging, rapidly evolving situation and CDC will continue to provide updated information as it becomes available. CDC works 24/7 to protect people’s health.  For CDC guidance please visit: https://www.cdc.gov/coronavirus/2019-nCoV/index.html"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#CDC_Response && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11782",
+      "previous_sibling": "node_11781"
+    },
+    {
+      "type": "standard",
+      "title": "Children and Face Masks",
+      "output": {
+        "text": {
+          "values": [
+            "If your child is healthy, there is no need for them to wear a facemask. Only people who have symptoms of illness or who are providing care to those who are ill should wear masks."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#ChildrenAndFaceMasks && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11767",
+      "previous_sibling": "node_11766"
+    },
+    {
+      "type": "standard",
+      "title": "Protecting Children from COVID",
+      "output": {
+        "text": {
+          "values": [
+            "You can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy. Clean hands often using soap and water or alcohol-based hand sanitizer Avoid people who are sick (coughing and sneezing) Clean and disinfect high-touch surfaces daily in household common areas (e.g. tables, hard-backed chairs, doorknobs, light switches, remotes, handles, desks, toilets, sinks) Launder items including washable plush toys as appropriate in accordance with the manufacturer’s instructions. If possible, launder items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from an ill person can be washed with other people’s items. You can find additional information on preventing COVID-19 at Prevention for 2019 Novel Coronavirus and at Preventing COVID-19 Spread in Communities . Additional information on how COVID-19 is spread is available by asking How COVID-19 Spreads"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#ProtectingChildren && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11765",
+      "previous_sibling": "node_11764"
+    },
+    {
+      "type": "standard",
+      "title": "Community Spread",
+      "output": {
+        "text": {
+          "values": [
+            "Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#CommunitySpread && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11759",
+      "previous_sibling": "node_11758"
+    },
+    {
+      "type": "standard",
+      "title": "Testing Information",
+      "output": {
+        "text": {
+          "values": [
+            "If you develop symptoms such as fever, cough, and/or difficulty breathing, and have been in close contact with a person known to have COVID-19 or have recently traveled from an area with ongoing spread of COVID-19, stay home and call your healthcare provider. Older patients and individuals who have severe underlying medical conditions or are immuno compromised should contact their healthcare provider early, even if their illness is mild. If you have severe symptoms, such as persistent pain or pressure in the chest, new confusion or inability to arouse, or bluish lips of face, contact your healthcare provider or emergency room and seek care immediately. Your doctor will determine if you have signs and symptoms of COVID-19 and whether you should be tested."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#Testing && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11777",
+      "previous_sibling": "node_11776"
+    },
+    {
+      "type": "standard",
+      "title": "Can I attend funerals?",
+      "output": {
+        "text": {
+          "values": [
+            "There is currently no known risk associated with being in the same room at a funeral or visitation service with the body of someone who died of COVID-19."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#AttendingFuneral && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11781",
+      "previous_sibling": "node_11780"
+    },
+    {
+      "type": "frame",
+      "title": "news",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "state": "$location",
+            "village": "$location_2",
+            "district": "place"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#News_Corona_Virus || @sys-location",
+      "dialog_node": "node_9_1590176654622",
+      "previous_sibling": "node_11788"
+    },
+    {
+      "type": "standard",
+      "title": "Opening",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello , I’m the COVID Crisis Communication Bot. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {},
+      "conditions": "welcome",
+      "dialog_node": "node_11788"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "enabled": false,
+      "randomize": true,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above."
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": true,
+  "name": "CDC COVID FAQ",
+  "language": "en",
+  "description": ""
+}
