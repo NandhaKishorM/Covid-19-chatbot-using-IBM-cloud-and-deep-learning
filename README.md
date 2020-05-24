@@ -96,6 +96,26 @@ Author : https://github.com/habom2310/Heart-rate-measurement-using-camera
 
 4. Apply Fast Fourier Transform to the data buffer. Highest peak is the heart-rate
 
+# Nvidia Jetson Nano
+## GPU: 128-core NVIDIA Maxwell™ architecture-based GPU
+## CPU: Quad-core ARM® A57
+## Video: 4K @ 30 fps (H.264/H.265) / 4K @ 60 fps (H.264/H.265) encode and decode
+## Camera: MIPI CSI-2 DPHY lanes, 12x (Module) and 1x (Developer Kit)
+## Memory: 4 GB 64-bit LPDDR4; 25.6 gigabytes/second
+## Connectivity: Gigabit Ethernet
+## OS Support: Linux for Tegra®
+## Module Size: 70mm x 45mm
+## Developer Kit Size: 100mm x 80mm
+* Install dependencies and connect usb microphone or USB blueotooth dongle
+### Install Tensorflow: https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html
+
+* To work with Jetson nano add 
+
+```
+os.environ('CUDA_VISIBLE_DEVICES') = '-1' 
+```
+* In detail_main.py, this will ensure the script run on CPU. 
+
 # Reference
 1. https://github.com/habom2310/Heart-rate-measurement-using-camera
 2. Real Time Heart Rate Monitoring From Facial RGB Color Video Using Webcam by H. Rahman, M.U. Ahmed, S. Begum, P. Funk
