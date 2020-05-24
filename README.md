@@ -104,8 +104,8 @@ Author : https://github.com/habom2310/Heart-rate-measurement-using-camera
 5. Camera-based Heart Rate Monitoring by Janus Nørtoft Jensen and Morten Hannemose
 6. Graphs plotting is based on https://github.com/thearn/webcam-pulse-detector
 https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
-7. https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
-8. https://github.com/FIGLAB/ubicoustics
+7. Heart rate detection on https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+8. Sound recognition on  https://github.com/FIGLAB/ubicoustics
 
 
 
