@@ -115,7 +115,7 @@ Author : https://github.com/habom2310/Heart-rate-measurement-using-camera
 ## Module Size: 70mm x 45mm
 ## Developer Kit Size: 100mm x 80mm
 * Install dependencies and connect usb microphone or USB blueotooth dongle
-### Install Tensorflow: https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html
+### Install TensorFlow: https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html
 
 * To work with Jetson nano add 
 
