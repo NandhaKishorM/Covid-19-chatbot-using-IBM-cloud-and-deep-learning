@@ -3,10 +3,10 @@
 ## build librnnoise & rnnoise_demo with CMake
 
 ```
-$ mkdir build
-$ cd build
-$ cmake ..
-$ make
+mkdir build
+cd build
+cmake ..
+make
 ```
 
 copy the file "rnnoise_demo" from "/build/bin/" to the main directory
@@ -29,26 +29,26 @@ Copy the skill ID(workspace id). Go to your assitant click on the three dots in 
 11. Go to IBM functions and create an action with python 3.7 
 12. Open function_action.py and copy-paste it in the Code section. Click on Parameters and add Parameter with Parameter name as "link" and Parameter Value as " https://api.covid19india.org/state_district_wise.json ".
 13. ```
-$ cp sample.env .env
+cp sample.env .env
 ```
 
 
 ## install anaconda python
 ```
-$ conda create -n sound pip python=3.6
-$ conda activate sound
-$ pip install -r requirements.txt
+conda create -n sound pip python=3.6
+conda activate sound
+pip install -r requirements.txt
 ```
 
 ## Run
 
 ```
-$ python detail_live.py
+python detail_live.py
 ```
 # CHATBOT - Flask
 
 ```
-$ python app.py
+python app.py
 ```
 and go to 127.0.0.1:1880 from your browser
 
@@ -63,8 +63,8 @@ Install app-debug.apk
 
 # Emotion recognition
 ```
-$ cd Emotion recognition
-$ python main_script.py
+cd Emotion recognition
+python main_script.py
 ```
 ## Principle
 1. Dataset, FER2013 from Kaggle
@@ -80,8 +80,8 @@ $ python main_script.py
 # Heart rate detection
 
 ```
-$ cd Heart rate measurement
-$ python GUI.py
+cd Heart rate measurement
+python GUI.py
 ```
 Author : https://github.com/habom2310/Heart-rate-measurement-using-camera
 
