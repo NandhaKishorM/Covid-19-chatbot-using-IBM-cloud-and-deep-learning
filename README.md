@@ -49,6 +49,15 @@ pip install -r requirements.txt
 ```
 python detail_live.py
 ```
+## Principle
+* CONVOLUTIONAL NEURAL NETWORK(CNN) WITH KERAS USING TENSORFLOW BACKEND
+
+1. Collected sound data: https://voice.mozilla.org/en/datasets, https://urbansounddataset.weebly.com/urbansound8k.html, https://github.com/hernanmd/COVID-19-train-audio/tree/master/not-covid19-coughs
+
+2. Used transfer learning on the VGG-16 architecture Pre-trained on YouTube-8M for audio recognition
+
+3. Save the keras model and used for real-time prediction
+
 # CHATBOT - Flask
 ![alt text](https://github.com/kishorkuttan/Covid-19-chatbot-using-IBM-cloud-and-deep-learning/blob/master/flask_chatbot.png?raw=true)
 
@@ -75,6 +84,9 @@ cd Emotion recognition
 python main_script.py
 ```
 ## Principle
+
+* CNN WITH KERAS USING TENSORFLOW BACKEND
+
 1. Dataset, FER2013 from Kaggle
 
 2. Construct CNN with Keras using TensorFlow backend
@@ -94,6 +106,8 @@ python GUI.py
 Author : https://github.com/habom2310/Heart-rate-measurement-using-camera
 
 ## Principle
+
+* DETECTING CHANGES IN SKING COLOR DUE TO BLOOD CIRCULATION AND CALCULATE HEART-RATE
 
 1. Face detection using dlib library and get the Region Of Interest(ROI)
 
