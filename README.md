@@ -3,6 +3,13 @@
 
 # CHATBOT-Cough detection and automated response
 
+## RNN noise reduction 
+[alt text](https://github.com/kishorkuttan/Covid-19-chatbot-using-IBM-cloud-and-deep-learning/blob/master/rnn_noise_reduction.png?raw=true)
+Ref: https://github.com/xiph/rnnoise
+Ref: https://github.com/cpuimage/rnnoise
+Ref: https://blog.csdn.net/dakeboy/article/details/88039977
+
+
 ## build librnnoise & rnnoise_demo with CMake
 
 ```
