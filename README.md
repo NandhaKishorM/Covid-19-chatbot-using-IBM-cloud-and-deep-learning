@@ -1,5 +1,5 @@
 # How it works
-![Alt text](https://img.youtube.com/vi/cTnMJP2GgdY/0.jpg)](https://www.youtube.com/watch?v=cTnMJP2GgdY)
+![Alt text](https://img.youtube.com/vi/jQlTwzy6tN0/0.jpg)](https://www.youtube.com/watch?v=jQlTwzy6tN0&feature=emb_logo)
 
 # CHATBOT-Cough detection and automated response
 
