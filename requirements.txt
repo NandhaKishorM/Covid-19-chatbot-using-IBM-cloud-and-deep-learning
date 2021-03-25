@@ -168,7 +168,7 @@ python-qt-binding==0.3.6
 python-socketio==4.5.1
 pyttsx3==2.87
 pytz==2019.3
-PyYAML==5.3
+PyYAML==5.4
 pyzmq==19.0.0
 qt-dotgraph==0.3.16
 qt-gui==0.3.16
