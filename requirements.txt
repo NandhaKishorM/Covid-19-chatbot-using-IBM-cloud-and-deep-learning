@@ -6,7 +6,7 @@ astunparse==1.6.3
 atari-py==0.2.6
 attrs==19.3.0
 audioread==2.1.8
-autobahn==20.4.3
+autobahn==20.12.3
 Automat==20.2.0
 backcall==0.1.0
 beautifulsoup4==4.9.0
