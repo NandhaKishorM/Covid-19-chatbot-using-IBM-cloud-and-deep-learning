@@ -48,7 +48,7 @@ facebook-sdk==3.1.0
 flake8==3.7.9
 flake8-import-order==0.18.1
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-SocketIO==4.2.1
 future==0.18.2
 fuzzywuzzy==0.17.0
