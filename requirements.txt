@@ -252,7 +252,7 @@ spinners==0.0.24
 tensorboard==1.14.0
 tensorboard-plugin-wit==1.6.0.post3
 tensorboardX==2.0
-tensorflow==1.14.0
+tensorflow==2.5.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
