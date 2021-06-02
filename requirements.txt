@@ -270,7 +270,7 @@ traitlets==4.3.3
 Twisted==20.3.0
 txaio==20.4.1
 urdfdom-py==0.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.9
 webencodings==0.5.1
 webrtcvad==2.0.10
