@@ -267,7 +267,7 @@ topic-tools==1.14.3
 tornado==6.0.4
 tqdm==4.45.0
 traitlets==4.3.3
-Twisted==20.3.0
+Twisted==22.1.0
 txaio==20.4.1
 urdfdom-py==0.4.1
 urllib3==1.25.8
